@@ -1,0 +1,7 @@
+{
+  "name": "Qatar2022AlbumTracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
