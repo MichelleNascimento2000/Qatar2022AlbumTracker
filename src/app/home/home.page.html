@@ -1,20 +1,20 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+<ion-content class="background">
+    <div class="logo-div">
+        <ion-img src="../../assets/Qatar Logo.png"></ion-img>
+        <ion-text class="title-bold">Qatar 2022<br>Album Tracker</ion-text>
+    </div>
+    <div>
+        <ion-button
+            class="start-button"
+            shape="round"
+            size="large"
+            strong="true"
+        >
+            Começar!
+        </ion-button>
+    </div>
+    <div class="progress-bar-div">
+        <ion-badge class="percentage-badge">50% concluído</ion-badge>
+        <ion-progress-bar class="percentage-progress-bar" value="0.5"></ion-progress-bar>
+    </div>
 </ion-content>

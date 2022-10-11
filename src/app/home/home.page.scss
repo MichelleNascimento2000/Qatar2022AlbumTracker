@@ -1,27 +1,55 @@
-#container {
-  text-align: center;
+@import url('https://fonts.cdnfonts.com/css/qatar2022');
 
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+.background{
+    --background: linear-gradient(135deg, var(--theme-color-default-3) 0%, var(--theme-color-default-2) 50%, var(--theme-color-default-1) 100%);
 }
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
+.logo-div{
+    margin-top: 10%;
 }
 
-#container p {
-  font-size: 16px;
-  line-height: 22px;
+.title-bold{
+    font-family: 'Qatar2022';
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
 
-  color: #8c8c8c;
-
-  margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-#container a {
-  text-decoration: none;
+.start-button{
+    font-family: 'Qatar2022';
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 50px;
+
+    --ripple-color: var(--theme-color-default-3);
+    --background: var(--theme-color-default-1);
+    --color: var(--white);
+}
+
+.progress-bar-div{
+    margin-top: 50%;
+}
+
+.percentage-badge{
+    font-family: 'Qatar2022';
+    padding-top: 10px;
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    --background: var(--golden-default);
+}
+
+.percentage-progress-bar{
+    --background: var(--white-default);
+    --progress-background: var(--golden-default);
 }

@@ -24,3 +24,12 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+:root {
+    --theme-color-default-1: rgba(31,1,11,1);
+    --theme-color-default-2: rgba(94,4,32,1);
+    --theme-color-default-3: rgba(165,16,58,1);
+    --golden-default: rgb(181, 168, 28);
+    --white-default: rgb(255, 255, 255);
+}
