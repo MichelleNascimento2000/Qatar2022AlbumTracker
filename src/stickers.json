@@ -1,0 +1,4551 @@
+[
+    {
+        "id": "00",
+        "category": "Página Inicial",
+        "name": "Logo da Panini",
+        "foil": true
+    },
+    {
+        "id": "FWC 1",
+        "category": "Página Inicial",
+        "name": "Logo da FIFA",
+        "foil": false
+    },
+    {
+        "id": "FWC 2",
+        "category": "Página Inicial",
+        "name": "Troféu Oficial / 1",
+        "foil": true
+    },
+    {
+        "id": "FWC 3",
+        "category": "Página Inicial",
+        "name": "Troféu Oficial / 2",
+        "foil": true
+    },
+    {
+        "id": "FWC 4",
+        "category": "Página Inicial",
+        "name": "Mascote Oficial / 1",
+        "foil": true
+    },
+    {
+        "id": "FWC 5",
+        "category": "Página Inicial",
+        "name": "Mascote Oficial / 2",
+        "foil": true
+    },
+    {
+        "id": "FWC 6",
+        "category": "Página Inicial",
+        "name": "Emblema Oficial / 1",
+        "foil": true
+    },
+    {
+        "id": "FWC 7",
+        "category": "Página Inicial",
+        "name": "Emblema Oficial / 2",
+        "foil": true
+    },
+    {
+        "id": "FWC 8",
+        "category": "Estádios",
+        "name": "Ahmad Bin Ali Stadium",
+        "foil": false
+    },
+    {
+        "id": "FWC 9",
+        "category": "Estádios",
+        "name": "Al Janoub Stadium",
+        "foil": false
+    },
+    {
+        "id": "FWC 10",
+        "category": "Estádios",
+        "name": "Al Thumama Stadium",
+        "foil": false
+    },
+    {
+        "id": "FWC 11",
+        "category": "Estádios",
+        "name": "Education City Stadium",
+        "foil": false
+    },
+    {
+        "id": "FWC 12",
+        "category": "Estádios",
+        "name": "Khalifa International Stadium",
+        "foil": false
+    },
+    {
+        "id": "FWC 13",
+        "category": "Estádios",
+        "name": "Stadium 974",
+        "foil": false
+    },
+    {
+        "id": "FWC 14",
+        "category": "Estádios",
+        "name": "Al Bayt Stadium outdoor",
+        "foil": false
+    },
+    {
+        "id": "FWC 15",
+        "category": "Estádios",
+        "name": "Al Bayt Stadium indoor",
+        "foil": false
+    },
+    {
+        "id": "FWC 16",
+        "category": "Estádios",
+        "name": "Lusail Stadium outdoor",
+        "foil": false
+    },
+    {
+        "id": "FWC 17",
+        "category": "Estádios",
+        "name": "Lusail Stadium indoor",
+        "foil": false
+    },
+    {
+        "id": "FWC 18",
+        "category": "Estádios",
+        "name": "Bola Oficial",
+        "foil": false
+    },
+    {
+        "id": "QAT 1",
+        "category": "Qatar",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "QAT 2",
+        "category": "Qatar",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "QAT 3",
+        "category": "Qatar",
+        "name": "Saad Al Sheeb",
+        "foil": false
+    },
+    {
+        "id": "QAT 4",
+        "category": "Qatar",
+        "name": "Meshaal Barsham",
+        "foil": false
+    },
+    {
+        "id": "QAT 5",
+        "category": "Qatar",
+        "name": "Homam Ahmed",
+        "foil": false
+    },
+    {
+        "id": "QAT 6",
+        "category": "Qatar",
+        "name": "Bassam Alrawi",
+        "foil": false
+    },
+    {
+        "id": "QAT 7",
+        "category": "Qatar",
+        "name": "Abdulkarim Hassan",
+        "foil": false
+    },
+    {
+        "id": "QAT 8",
+        "category": "Qatar",
+        "name": "Musaab Khidir",
+        "foil": false
+    },
+    {
+        "id": "QAT 9",
+        "category": "Qatar",
+        "name": "Boualem Khoukhi",
+        "foil": false
+    },
+    {
+        "id": "QAT 10",
+        "category": "Qatar",
+        "name": "Pedro Miguel",
+        "foil": false
+    },
+    {
+        "id": "QAT 11",
+        "category": "Qatar",
+        "name": "Tarek Salman",
+        "foil": false
+    },
+    {
+        "id": "QAT 12",
+        "category": "Qatar",
+        "name": "Karim Boudiaf",
+        "foil": false
+    },
+    {
+        "id": "QAT 13",
+        "category": "Qatar",
+        "name": "Abdulaziz Hatem",
+        "foil": false
+    },
+    {
+        "id": "QAT 14",
+        "category": "Qatar",
+        "name": "Assim Omer Madibo",
+        "foil": false
+    },
+    {
+        "id": "QAT 15",
+        "category": "Qatar",
+        "name": "Yousuf Abdurisag",
+        "foil": false
+    },
+    {
+        "id": "QAT 16",
+        "category": "Qatar",
+        "name": "Akram Hassan Afif",
+        "foil": false
+    },
+    {
+        "id": "QAT 17",
+        "category": "Qatar",
+        "name": "Ahmad Alaaeldin",
+        "foil": false
+    },
+    {
+        "id": "QAT 18",
+        "category": "Qatar",
+        "name": "Hasan Al-Haydos",
+        "foil": false
+    },
+    {
+        "id": "QAT 19",
+        "category": "Qatar",
+        "name": "Almoez Ali",
+        "foil": false
+    },
+    {
+        "id": "QAT 20",
+        "category": "Qatar",
+        "name": "Mohammed Muntari",
+        "foil": false
+    },
+    {
+        "id": "ECU 1",
+        "category": "Equador",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "ECU 2",
+        "category": "Equador",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "ECU 3",
+        "category": "Equador",
+        "name": "Hernán Galíndez",
+        "foil": false
+    },
+    {
+        "id": "ECU 4",
+        "category": "Equador",
+        "name": "Alexander Domínguez",
+        "foil": false
+    },
+    {
+        "id": "ECU 5",
+        "category": "Equador",
+        "name": "Robert Arboleda",
+        "foil": false
+    },
+    {
+        "id": "ECU 6",
+        "category": "Equador",
+        "name": "Byron Castillo",
+        "foil": false
+    },
+    {
+        "id": "ECU 7",
+        "category": "Equador",
+        "name": "Pervis Estupiñán",
+        "foil": false
+    },
+    {
+        "id": "ECU 8",
+        "category": "Equador",
+        "name": "Piero Hincapié",
+        "foil": false
+    },
+    {
+        "id": "ECU 9",
+        "category": "Equador",
+        "name": "Ángelo Preciado",
+        "foil": false
+    },
+    {
+        "id": "ECU 10",
+        "category": "Equador",
+        "name": "Félix Torres",
+        "foil": false
+    },
+    {
+        "id": "ECU 11",
+        "category": "Equador",
+        "name": "Moisés Caicedo",
+        "foil": false
+    },
+    {
+        "id": "ECU 12",
+        "category": "Equador",
+        "name": "Alan Franco",
+        "foil": false
+    },
+    {
+        "id": "ECU 13",
+        "category": "Equador",
+        "name": "Carlos Gruezo",
+        "foil": false
+    },
+    {
+        "id": "ECU 14",
+        "category": "Equador",
+        "name": "Jhegson Méndez",
+        "foil": false
+    },
+    {
+        "id": "ECU 15",
+        "category": "Equador",
+        "name": "Jeremy Sarmiento",
+        "foil": false
+    },
+    {
+        "id": "ECU 16",
+        "category": "Equador",
+        "name": "Michael Estrada",
+        "foil": false
+    },
+    {
+        "id": "ECU 17",
+        "category": "Equador",
+        "name": "Ángel Mena",
+        "foil": false
+    },
+    {
+        "id": "ECU 18",
+        "category": "Equador",
+        "name": "Gonzalo Plata",
+        "foil": false
+    },
+    {
+        "id": "ECU 19",
+        "category": "Equador",
+        "name": "Ayrton Preciado",
+        "foil": false
+    },
+    {
+        "id": "ECU 20",
+        "category": "Equador",
+        "name": "Enner Valencia",
+        "foil": false
+    },
+    {
+        "id": "SEN 1",
+        "category": "Senegal",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "SEN 2",
+        "category": "Senegal",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "SEN 3",
+        "category": "Senegal",
+        "name": "Édouard Mendy",
+        "foil": false
+    },
+    {
+        "id": "SEN 4",
+        "category": "Senegal",
+        "name": "Alfred Gomis",
+        "foil": false
+    },
+    {
+        "id": "SEN 5",
+        "category": "Senegal",
+        "name": "Saliou Ciss",
+        "foil": false
+    },
+    {
+        "id": "SEN 6",
+        "category": "Senegal",
+        "name": "Pape Abou Cissé",
+        "foil": false
+    },
+    {
+        "id": "SEN 7",
+        "category": "Senegal",
+        "name": "Abdou Diallo",
+        "foil": false
+    },
+    {
+        "id": "SEN 8",
+        "category": "Senegal",
+        "name": "Kalidou Koulibaly",
+        "foil": false
+    },
+    {
+        "id": "SEN 9",
+        "category": "Senegal",
+        "name": "Ibrahima Mbaye",
+        "foil": false
+    },
+    {
+        "id": "SEN 10",
+        "category": "Senegal",
+        "name": "Bouna Sarr",
+        "foil": false
+    },
+    {
+        "id": "SEN 11",
+        "category": "Senegal",
+        "name": "Krépin Diatta",
+        "foil": false
+    },
+    {
+        "id": "SEN 12",
+        "category": "Senegal",
+        "name": "Idrissa Gueye",
+        "foil": false
+    },
+    {
+        "id": "SEN 13",
+        "category": "Senegal",
+        "name": "Pape Gueye",
+        "foil": false
+    },
+    {
+        "id": "SEN 14",
+        "category": "Senegal",
+        "name": "Cheikhou Kouyaté",
+        "foil": false
+    },
+    {
+        "id": "SEN 15",
+        "category": "Senegal",
+        "name": "Nampalys Mendy",
+        "foil": false
+    },
+    {
+        "id": "SEN 16",
+        "category": "Senegal",
+        "name": "Boulaye Dia",
+        "foil": false
+    },
+    {
+        "id": "SEN 17",
+        "category": "Senegal",
+        "name": "Famara Diédhiou",
+        "foil": false
+    },
+    {
+        "id": "SEN 18",
+        "category": "Senegal",
+        "name": "Bamba Dieng",
+        "foil": false
+    },
+    {
+        "id": "SEN 19",
+        "category": "Senegal",
+        "name": "Sadio Mané",
+        "foil": false
+    },
+    {
+        "id": "SEN 20",
+        "category": "Senegal",
+        "name": "Ismaïla Sarr",
+        "foil": false
+    },
+    {
+        "id": "NED 1",
+        "category": "Holanda",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "NED 2",
+        "category": "Holanda",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "NED 3",
+        "category": "Holanda",
+        "name": "Justin Bijlow",
+        "foil": false
+    },
+    {
+        "id": "NED 4",
+        "category": "Holanda",
+        "name": "Jasper Cillessen",
+        "foil": false
+    },
+    {
+        "id": "NED 5",
+        "category": "Holanda",
+        "name": "Daley Blind",
+        "foil": false
+    },
+    {
+        "id": "NED 6",
+        "category": "Holanda",
+        "name": "Matthijs de Ligt",
+        "foil": false
+    },
+    {
+        "id": "NED 7",
+        "category": "Holanda",
+        "name": "Stefan de Vrij",
+        "foil": false
+    },
+    {
+        "id": "NED 8",
+        "category": "Holanda",
+        "name": "Denzel Dumfries",
+        "foil": false
+    },
+    {
+        "id": "NED 9",
+        "category": "Holanda",
+        "name": "Virgil van Dijk",
+        "foil": false
+    },
+    {
+        "id": "NED 10",
+        "category": "Holanda",
+        "name": "Steven Berghuis",
+        "foil": false
+    },
+    {
+        "id": "NED 11",
+        "category": "Holanda",
+        "name": "Frenkie de Jong",
+        "foil": false
+    },
+    {
+        "id": "NED 12",
+        "category": "Holanda",
+        "name": "Ryan Gravenberch",
+        "foil": false
+    },
+    {
+        "id": "NED 13",
+        "category": "Holanda",
+        "name": "Davy Klaassen",
+        "foil": false
+    },
+    {
+        "id": "NED 14",
+        "category": "Holanda",
+        "name": "Teun Koopmeiners",
+        "foil": false
+    },
+    {
+        "id": "NED 15",
+        "category": "Holanda",
+        "name": "Georginio Wijnaldum",
+        "foil": false
+    },
+    {
+        "id": "NED 16",
+        "category": "Holanda",
+        "name": "Steven Bergwijn",
+        "foil": false
+    },
+    {
+        "id": "NED 17",
+        "category": "Holanda",
+        "name": "Arnaut Danjuma",
+        "foil": false
+    },
+    {
+        "id": "NED 18",
+        "category": "Holanda",
+        "name": "Memphis Depay",
+        "foil": false
+    },
+    {
+        "id": "NED 19",
+        "category": "Holanda",
+        "name": "Cody Gakpo",
+        "foil": false
+    },
+    {
+        "id": "NED 20",
+        "category": "Holanda",
+        "name": "Donyell Malen",
+        "foil": false
+    },
+    {
+        "id": "ENG 1",
+        "category": "Inglaterra",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "ENG 2",
+        "category": "Inglaterra",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "ENG 3",
+        "category": "Inglaterra",
+        "name": "Jordan Pickford",
+        "foil": false
+    },
+    {
+        "id": "ENG 4",
+        "category": "Inglaterra",
+        "name": "Aaron Ramsdale",
+        "foil": false
+    },
+    {
+        "id": "ENG 5",
+        "category": "Inglaterra",
+        "name": "Trent Alexander-Arnold",
+        "foil": false
+    },
+    {
+        "id": "ENG 6",
+        "category": "Inglaterra",
+        "name": "Conor Coady",
+        "foil": false
+    },
+    {
+        "id": "ENG 7",
+        "category": "Inglaterra",
+        "name": "Harry Maguire",
+        "foil": false
+    },
+    {
+        "id": "ENG 8",
+        "category": "Inglaterra",
+        "name": "Luke Shaw",
+        "foil": false
+    },
+    {
+        "id": "ENG 9",
+        "category": "Inglaterra",
+        "name": "John Stones",
+        "foil": false
+    },
+    {
+        "id": "ENG 10",
+        "category": "Inglaterra",
+        "name": "Kyle Walker",
+        "foil": false
+    },
+    {
+        "id": "ENG 11",
+        "category": "Inglaterra",
+        "name": "Jude Bellingham",
+        "foil": false
+    },
+    {
+        "id": "ENG 12",
+        "category": "Inglaterra",
+        "name": "Jack Grealish",
+        "foil": false
+    },
+    {
+        "id": "ENG 13",
+        "category": "Inglaterra",
+        "name": "Jordan Henderson",
+        "foil": false
+    },
+    {
+        "id": "ENG 14",
+        "category": "Inglaterra",
+        "name": "Mason Mount",
+        "foil": false
+    },
+    {
+        "id": "ENG 15",
+        "category": "Inglaterra",
+        "name": "Kalvin Phillips",
+        "foil": false
+    },
+    {
+        "id": "ENG 16",
+        "category": "Inglaterra",
+        "name": "Declan Rice",
+        "foil": false
+    },
+    {
+        "id": "ENG 17",
+        "category": "Inglaterra",
+        "name": "Phil Foden",
+        "foil": false
+    },
+    {
+        "id": "ENG 18",
+        "category": "Inglaterra",
+        "name": "Harry Kane",
+        "foil": false
+    },
+    {
+        "id": "ENG 19",
+        "category": "Inglaterra",
+        "name": "Bukayo Saka",
+        "foil": false
+    },
+    {
+        "id": "ENG 20",
+        "category": "Inglaterra",
+        "name": "Raheem Sterling",
+        "foil": false
+    },
+    
+    {
+        "id": "IRN 1",
+        "category": "Irã",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "IRN 2",
+        "category": "Irã",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "IRN 3",
+        "category": "Irã",
+        "name": "Amir Abedzadeh",
+        "foil": false
+    },
+    {
+        "id": "IRN 4",
+        "category": "Irã",
+        "name": "Alireza Beiranvand",
+        "foil": false
+    },
+    {
+        "id": "IRN 5",
+        "category": "Irã",
+        "name": "Ehsan Hajsafi",
+        "foil": false
+    },
+    {
+        "id": "IRN 6",
+        "category": "Irã",
+        "name": "Majid Hosseini",
+        "foil": false
+    },
+    {
+        "id": "IRN 7",
+        "category": "Irã",
+        "name": "Hossein Kanaani",
+        "foil": false
+    },
+    {
+        "id": "IRN 8",
+        "category": "Irã",
+        "name": "Shoja Khalilzadeh",
+        "foil": false
+    },
+    {
+        "id": "IRN 9",
+        "category": "Irã",
+        "name": "Milad Mohammadi",
+        "foil": false
+    },
+    {
+        "id": "IRN 10",
+        "category": "Irã",
+        "name": "Sadegh Moharrami",
+        "foil": false
+    },
+    {
+        "id": "IRN 11",
+        "category": "Irã",
+        "name": "Omid Noorafkan",
+        "foil": false
+    },
+    {
+        "id": "IRN 12",
+        "category": "Irã",
+        "name": "Vahid Amiri",
+        "foil": false
+    },
+    {
+        "id": "IRN 13",
+        "category": "Irã",
+        "name": "Saeid Ezatolahi",
+        "foil": false
+    },
+    {
+        "id": "IRN 14",
+        "category": "Irã",
+        "name": "Ali Gholizadeh",
+        "foil": false
+    },
+    {
+        "id": "IRN 15",
+        "category": "Irã",
+        "name": "Alireza Jahanbakhsh",
+        "foil": false
+    },
+    {
+        "id": "IRN 16",
+        "category": "Irã",
+        "name": "Ahmad Nourollahi",
+        "foil": false
+    },
+    {
+        "id": "IRN 17",
+        "category": "Irã",
+        "name": "Karim Ansarifard",
+        "foil": false
+    },
+    {
+        "id": "IRN 18",
+        "category": "Irã",
+        "name": "Sardar Azmoun",
+        "foil": false
+    },
+    {
+        "id": "IRN 19",
+        "category": "Irã",
+        "name": "Saman Ghoddos",
+        "foil": false
+    },
+    {
+        "id": "IRN 20",
+        "category": "Irã",
+        "name": "Mehdi Taremi",
+        "foil": false
+    },
+    {
+        "id": "USA 1",
+        "category": "EUA",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "USA 2",
+        "category": "EUA",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "USA 3",
+        "category": "EUA",
+        "name": "Matt Turner",
+        "foil": false
+    },
+    {
+        "id": "USA 4",
+        "category": "EUA",
+        "name": "Zack Steffen",
+        "foil": false
+    },
+    {
+        "id": "USA 5",
+        "category": "EUA",
+        "name": "Sergiño Dest",
+        "foil": false
+    },
+    {
+        "id": "USA 6",
+        "category": "EUA",
+        "name": "Aaron Long",
+        "foil": false
+    },
+    {
+        "id": "USA 7",
+        "category": "EUA",
+        "name": "Chris Richards",
+        "foil": false
+    },
+    {
+        "id": "USA 8",
+        "category": "EUA",
+        "name": "Antonee Robinson",
+        "foil": false
+    },
+    {
+        "id": "USA 9",
+        "category": "EUA",
+        "name": "DeAndre Yedlin",
+        "foil": false
+    },
+    {
+        "id": "USA 10",
+        "category": "EUA",
+        "name": "Walker Zimmerman",
+        "foil": false
+    },
+    {
+        "id": "USA 11",
+        "category": "EUA",
+        "name": "Brenden Aaronson",
+        "foil": false
+    },
+    {
+        "id": "USA 12",
+        "category": "EUA",
+        "name": "Kellyn Acosta",
+        "foil": false
+    },
+    {
+        "id": "USA 13",
+        "category": "EUA",
+        "name": "Tyler Adams",
+        "foil": false
+    },
+    {
+        "id": "USA 14",
+        "category": "EUA",
+        "name": "Weston McKennie",
+        "foil": false
+    },
+    {
+        "id": "USA 15",
+        "category": "EUA",
+        "name": "Yunus Musah",
+        "foil": false
+    },
+    {
+        "id": "USA 16",
+        "category": "EUA",
+        "name": "Jesús Ferreira",
+        "foil": false
+    },
+    {
+        "id": "USA 17",
+        "category": "EUA",
+        "name": "Ricardo Pepi",
+        "foil": false
+    },
+    {
+        "id": "USA 18",
+        "category": "EUA",
+        "name": "Christian Pulisic",
+        "foil": false
+    },
+    {
+        "id": "USA 19",
+        "category": "EUA",
+        "name": "Giovanni Reyna",
+        "foil": false
+    },
+    {
+        "id": "USA 20",
+        "category": "EUA",
+        "name": "Timothy Weah",
+        "foil": false
+    },
+    {
+        "id": "WAL 1",
+        "category": "País de Gales",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "WAL 2",
+        "category": "País de Gales",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "WAL 3",
+        "category": "País de Gales",
+        "name": "Danny Ward",
+        "foil": false
+    },
+    {
+        "id": "WAL 4",
+        "category": "País de Gales",
+        "name": "Wayne Hennessey",
+        "foil": false
+    },
+    {
+        "id": "WAL 5",
+        "category": "País de Gales",
+        "name": "Ethan Ampadu",
+        "foil": false
+    },
+    {
+        "id": "WAL 6",
+        "category": "País de Gales",
+        "name": "Ben Davies",
+        "foil": false
+    },
+    {
+        "id": "WAL 7",
+        "category": "País de Gales",
+        "name": "Chris Gunter",
+        "foil": false
+    },
+    {
+        "id": "WAL 8",
+        "category": "País de Gales",
+        "name": "Chris Mepham",
+        "foil": false
+    },
+    {
+        "id": "WAL 9",
+        "category": "País de Gales",
+        "name": "Connor Roberts",
+        "foil": false
+    },
+    {
+        "id": "WAL 10",
+        "category": "País de Gales",
+        "name": "Joe Rodon",
+        "foil": false
+    },
+    {
+        "id": "WAL 11",
+        "category": "País de Gales",
+        "name": "Neco Williams",
+        "foil": false
+    },
+    {
+        "id": "WAL 12",
+        "category": "País de Gales",
+        "name": "Joe Allen",
+        "foil": false
+    },
+    {
+        "id": "WAL 13",
+        "category": "País de Gales",
+        "name": "Joe Morrell",
+        "foil": false
+    },
+    {
+        "id": "WAL 14",
+        "category": "País de Gales",
+        "name": "Aaron Ramsey",
+        "foil": false
+    },
+    {
+        "id": "WAL 15",
+        "category": "País de Gales",
+        "name": "Jonathan Williams",
+        "foil": false
+    },
+    {
+        "id": "WAL 16",
+        "category": "País de Gales",
+        "name": "Harry Wilson",
+        "foil": false
+    },
+    {
+        "id": "WAL 17",
+        "category": "País de Gales",
+        "name": "Gareth Bale",
+        "foil": false
+    },
+    {
+        "id": "WAL 18",
+        "category": "País de Gales",
+        "name": "Daniel James",
+        "foil": false
+    },
+    {
+        "id": "WAL 19",
+        "category": "País de Gales",
+        "name": "Brennan Johnson",
+        "foil": false
+    },
+    {
+        "id": "WAL 20",
+        "category": "País de Gales",
+        "name": "Kieffer Moore",
+        "foil": false
+    },
+    {
+        "id": "ARG 1",
+        "category": "Argentina",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "ARG 2",
+        "category": "Argentina",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "ARG 3",
+        "category": "Argentina",
+        "name": "Emiliano Martínez",
+        "foil": false
+    },
+    {
+        "id": "ARG 4",
+        "category": "Argentina",
+        "name": "Franco Armani",
+        "foil": false
+    },
+    {
+        "id": "ARG 5",
+        "category": "Argentina",
+        "name": "Marcos Acuña",
+        "foil": false
+    },
+    {
+        "id": "ARG 6",
+        "category": "Argentina",
+        "name": "Nahuel Molina",
+        "foil": false
+    },
+    {
+        "id": "ARG 7",
+        "category": "Argentina",
+        "name": "Nicolás Otamendi",
+        "foil": false
+    },
+    {
+        "id": "ARG 8",
+        "category": "Argentina",
+        "name": "Germán Pezzella",
+        "foil": false
+    },
+    {
+        "id": "ARG 9",
+        "category": "Argentina",
+        "name": "Cristian Romero",
+        "foil": false
+    },
+    {
+        "id": "ARG 10",
+        "category": "Argentina",
+        "name": "Rodrigo De Paul",
+        "foil": false
+    },
+    {
+        "id": "ARG 11",
+        "category": "Argentina",
+        "name": "Ángel Di María",
+        "foil": false
+    },
+    {
+        "id": "ARG 12",
+        "category": "Argentina",
+        "name": "Giovani Lo Celso",
+        "foil": false
+    },
+    {
+        "id": "ARG 13",
+        "category": "Argentina",
+        "name": "Leandro Paredes",
+        "foil": false
+    },
+    {
+        "id": "ARG 14",
+        "category": "Argentina",
+        "name": "Guido Rodríguez",
+        "foil": false
+    },
+    {
+        "id": "ARG 15",
+        "category": "Argentina",
+        "name": "Julián Álvarez",
+        "foil": false
+    },
+    {
+        "id": "ARG 16",
+        "category": "Argentina",
+        "name": "Joaquín Correa",
+        "foil": false
+    },
+    {
+        "id": "ARG 17",
+        "category": "Argentina",
+        "name": "Alejandro Gómez",
+        "foil": false
+    },
+    {
+        "id": "ARG 18",
+        "category": "Argentina",
+        "name": "Nicolás González",
+        "foil": false
+    },
+    {
+        "id": "ARG 19",
+        "category": "Argentina",
+        "name": "Lautaro Martínez",
+        "foil": false
+    },
+    {
+        "id": "ARG 20",
+        "category": "Argentina",
+        "name": "Lionel Messi",
+        "foil": false
+    },
+    {
+        "id": "KSA 1",
+        "category": "Arábia Saudita",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "KSA 2",
+        "category": "Arábia Saudita",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "KSA 3",
+        "category": "Arábia Saudita",
+        "name": "Mohammed Al-Owais",
+        "foil": false
+    },
+    {
+        "id": "KSA 4",
+        "category": "Arábia Saudita",
+        "name": "Mohammed Al-Rubaie",
+        "foil": false
+    },
+    {
+        "id": "KSA 5",
+        "category": "Arábia Saudita",
+        "name": "Abdulelah Al-Amri",
+        "foil": false
+    },
+    {
+        "id": "KSA 6",
+        "category": "Arábia Saudita",
+        "name": "Ali Al-Boleahi",
+        "foil": false
+    },
+    {
+        "id": "KSA 7",
+        "category": "Arábia Saudita",
+        "name": "Mohammed Al-Burayk",
+        "foil": false
+    },
+    {
+        "id": "KSA 8",
+        "category": "Arábia Saudita",
+        "name": "Sultan Al-Ghannam",
+        "foil": false
+    },
+    {
+        "id": "KSA 9",
+        "category": "Arábia Saudita",
+        "name": "Yasser Al-Shahrani",
+        "foil": false
+    },
+    {
+        "id": "KSA 10",
+        "category": "Arábia Saudita",
+        "name": "Hassan Al-Tambakti",
+        "foil": false
+    },
+    {
+        "id": "KSA 11",
+        "category": "Arábia Saudita",
+        "name": "Abdullah Madu",
+        "foil": false
+    },
+    {
+        "id": "KSA 12",
+        "category": "Arábia Saudita",
+        "name": "Salman Al-Faraj",
+        "foil": false
+    },
+    {
+        "id": "KSA 13",
+        "category": "Arábia Saudita",
+        "name": "Abdulelah Al-Malki",
+        "foil": false
+    },
+    {
+        "id": "KSA 14",
+        "category": "Arábia Saudita",
+        "name": "Sami Al-Najei",
+        "foil": false
+    },
+    {
+        "id": "KSA 15",
+        "category": "Arábia Saudita",
+        "name": "Hattan Bahebri",
+        "foil": false
+    },
+    {
+        "id": "KSA 16",
+        "category": "Arábia Saudita",
+        "name": "Mohamed Kanno",
+        "foil": false
+    },
+    {
+        "id": "KSA 17",
+        "category": "Arábia Saudita",
+        "name": "Abdullah Otayf",
+        "foil": false
+    },
+    {
+        "id": "KSA 18",
+        "category": "Arábia Saudita",
+        "name": "Firas Al-Buraikan",
+        "foil": false
+    },
+    {
+        "id": "KSA 19",
+        "category": "Arábia Saudita",
+        "name": "Salem Al-Dawsari",
+        "foil": false
+    },
+    {
+        "id": "KSA 20",
+        "category": "Arábia Saudita",
+        "name": "Khalid Al-Ghannam",
+        "foil": false
+    },
+    {
+        "id": "MEX 1",
+        "category": "México",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "MEX 2",
+        "category": "México",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "MEX 3",
+        "category": "México",
+        "name": "Guillermo Ochoa",
+        "foil": false
+    },
+    {
+        "id": "MEX 4",
+        "category": "México",
+        "name": "Alfredo Talavera",
+        "foil": false
+    },
+    {
+        "id": "MEX 5",
+        "category": "México",
+        "name": "Néstor Araújo",
+        "foil": false
+    },
+    {
+        "id": "MEX 6",
+        "category": "México",
+        "name": "Jesús Gallardo",
+        "foil": false
+    },
+    {
+        "id": "MEX 7",
+        "category": "México",
+        "name": "César Montes",
+        "foil": false
+    },
+    {
+        "id": "MEX 8",
+        "category": "México",
+        "name": "Héctor Moreno",
+        "foil": false
+    },
+    {
+        "id": "MEX 9",
+        "category": "México",
+        "name": "Luis Romo",
+        "foil": false
+    },
+    {
+        "id": "MEX 10",
+        "category": "México",
+        "name": "Jorge Sánchez",
+        "foil": false
+    },
+    {
+        "id": "MEX 11",
+        "category": "México",
+        "name": "Edson Álvarez",
+        "foil": false
+    },
+    {
+        "id": "MEX 12",
+        "category": "México",
+        "name": "Jesús Manuel Corona",
+        "foil": false
+    },
+    {
+        "id": "MEX 13",
+        "category": "México",
+        "name": "Andrés Guardado",
+        "foil": false
+    },
+    {
+        "id": "MEX 14",
+        "category": "México",
+        "name": "Érick Gutiérrez",
+        "foil": false
+    },
+    {
+        "id": "MEX 15",
+        "category": "México",
+        "name": "Héctor Herrera",
+        "foil": false
+    },
+    {
+        "id": "MEX 16",
+        "category": "México",
+        "name": "Diego Lainez",
+        "foil": false
+    },
+    {
+        "id": "MEX 17",
+        "category": "México",
+        "name": "Carlos Rodríguez",
+        "foil": false
+    },
+    {
+        "id": "MEX 18",
+        "category": "México",
+        "name": "Rogelio Funes Mori",
+        "foil": false
+    },
+    {
+        "id": "MEX 19",
+        "category": "México",
+        "name": "Raúl Jiménez",
+        "foil": false
+    },
+    {
+        "id": "MEX 20",
+        "category": "México",
+        "name": "Hirving Lozano",
+        "foil": false
+    },
+    {
+        "id": "POL 1",
+        "category": "Polônia",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "POL 2",
+        "category": "Polônia",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "POL 3",
+        "category": "Polônia",
+        "name": "Wojciech Szczęsny",
+        "foil": false
+    },
+    {
+        "id": "POL 4",
+        "category": "Polônia",
+        "name": "Łukasz Skorupski",
+        "foil": false
+    },
+    {
+        "id": "POL 5",
+        "category": "Polônia",
+        "name": "Jan Bednarek",
+        "foil": false
+    },
+    {
+        "id": "POL 6",
+        "category": "Polônia",
+        "name": "Bartosz Bereszyński",
+        "foil": false
+    },
+    {
+        "id": "POL 7",
+        "category": "Polônia",
+        "name": "Matty Cash",
+        "foil": false
+    },
+    {
+        "id": "POL 8",
+        "category": "Polônia",
+        "name": "Kamil Glik",
+        "foil": false
+    },
+    {
+        "id": "POL 9",
+        "category": "Polônia",
+        "name": "Tymoteusz Puchacz",
+        "foil": false
+    },
+    {
+        "id": "POL 10",
+        "category": "Polônia",
+        "name": "Maciej Rybus",
+        "foil": false
+    },
+    {
+        "id": "POL 11",
+        "category": "Polônia",
+        "name": "Kamil Jóźwiak",
+        "foil": false
+    },
+    {
+        "id": "POL 12",
+        "category": "Polônia",
+        "name": "Mateusz Klich",
+        "foil": false
+    },
+    {
+        "id": "POL 13",
+        "category": "Polônia",
+        "name": "Grzegorz Krychowiak",
+        "foil": false
+    },
+    {
+        "id": "POL 14",
+        "category": "Polônia",
+        "name": "Jakub Moder",
+        "foil": false
+    },
+    {
+        "id": "POL 15",
+        "category": "Polônia",
+        "name": "Sebastian Szymański",
+        "foil": false
+    },
+    {
+        "id": "POL 16",
+        "category": "Polônia",
+        "name": "Piotr Zieliński",
+        "foil": false
+    },
+    {
+        "id": "POL 17",
+        "category": "Polônia",
+        "name": "Robert Lewandowski",
+        "foil": false
+    },
+    {
+        "id": "POL 18",
+        "category": "Polônia",
+        "name": "Arkadiusz Milik",
+        "foil": false
+    },
+    {
+        "id": "POL 19",
+        "category": "Polônia",
+        "name": "Krzysztof Piątek",
+        "foil": false
+    },
+    {
+        "id": "POL 20",
+        "category": "Polônia",
+        "name": "Karol Świderski",
+        "foil": false
+    },
+    {
+        "id": "FRA 1",
+        "category": "França",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "FRA 2",
+        "category": "França",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "FRA 3",
+        "category": "França",
+        "name": "Hugo Lloris",
+        "foil": false
+    },
+    {
+        "id": "FRA 4",
+        "category": "França",
+        "name": "Mike Maignan",
+        "foil": false
+    },
+    {
+        "id": "FRA 5",
+        "category": "França",
+        "name": "Lucas Hernández",
+        "foil": false
+    },
+    {
+        "id": "FRA 6",
+        "category": "França",
+        "name": "Theo Hernández",
+        "foil": false
+    },
+    {
+        "id": "FRA 7",
+        "category": "França",
+        "name": "Presnel Kimpembe",
+        "foil": false
+    },
+    {
+        "id": "FRA 8",
+        "category": "França",
+        "name": "Jules Koundé",
+        "foil": false
+    },
+    {
+        "id": "FRA 9",
+        "category": "França",
+        "name": "Benjamin Pavard",
+        "foil": false
+    },
+    {
+        "id": "FRA 10",
+        "category": "França",
+        "name": "Raphaël Varane",
+        "foil": false
+    },
+    {
+        "id": "FRA 11",
+        "category": "França",
+        "name": "N’Golo Kanté",
+        "foil": false
+    },
+    {
+        "id": "FRA 12",
+        "category": "França",
+        "name": "Paul Pogba",
+        "foil": false
+    },
+    {
+        "id": "FRA 13",
+        "category": "França",
+        "name": "Adrien Rabiot",
+        "foil": false
+    },
+    {
+        "id": "FRA 14",
+        "category": "França",
+        "name": "Aurélien Tchouaméni",
+        "foil": false
+    },
+    {
+        "id": "FRA 15",
+        "category": "França",
+        "name": "Wissam Ben Yedder",
+        "foil": false
+    },
+    {
+        "id": "FRA 16",
+        "category": "França",
+        "name": "Karim Benzema",
+        "foil": false
+    },
+    {
+        "id": "FRA 17",
+        "category": "França",
+        "name": "Kingsley Coman",
+        "foil": false
+    },
+    {
+        "id": "FRA 18",
+        "category": "França",
+        "name": "Antoine Griezmann",
+        "foil": false
+    },
+    {
+        "id": "FRA 19",
+        "category": "França",
+        "name": "Kylian Mbappé",
+        "foil": false
+    },
+    {
+        "id": "FRA 20",
+        "category": "França",
+        "name": "Christopher Nkunku",
+        "foil": false
+    },
+    {
+        "id": "AUS 1",
+        "category": "Austrália",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "AUS 2",
+        "category": "Austrália",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "AUS 3",
+        "category": "Austrália",
+        "name": "Mathew Ryan",
+        "foil": false
+    },
+    {
+        "id": "AUS 4",
+        "category": "Austrália",
+        "name": "Andrew Redmayne",
+        "foil": false
+    },
+    {
+        "id": "AUS 5",
+        "category": "Austrália",
+        "name": "Aziz Behich",
+        "foil": false
+    },
+    {
+        "id": "AUS 6",
+        "category": "Austrália",
+        "name": "Miloš Degenek",
+        "foil": false
+    },
+    {
+        "id": "AUS 7",
+        "category": "Austrália",
+        "name": "Rhyan Grant",
+        "foil": false
+    },
+    {
+        "id": "AUS 8",
+        "category": "Austrália",
+        "name": "Joel King",
+        "foil": false
+    },
+    {
+        "id": "AUS 9",
+        "category": "Austrália",
+        "name": "Trent Sainsbury",
+        "foil": false
+    },
+    {
+        "id": "AUS 10",
+        "category": "Austrália",
+        "name": "Harry Souttar",
+        "foil": false
+    },
+    {
+        "id": "AUS 11",
+        "category": "Austrália",
+        "name": "Ajdin Hrustić",
+        "foil": false
+    },
+    {
+        "id": "AUS 12",
+        "category": "Austrália",
+        "name": "Jackson Irvine",
+        "foil": false
+    },
+    {
+        "id": "AUS 13",
+        "category": "Austrália",
+        "name": "James Jeggo",
+        "foil": false
+    },
+    {
+        "id": "AUS 14",
+        "category": "Austrália",
+        "name": "Awer Mabil",
+        "foil": false
+    },
+    {
+        "id": "AUS 15",
+        "category": "Austrália",
+        "name": "Aaron Mooy",
+        "foil": false
+    },
+    {
+        "id": "AUS 16",
+        "category": "Austrália",
+        "name": "Martin Boyle",
+        "foil": false
+    },
+    {
+        "id": "AUS 17",
+        "category": "Austrália",
+        "name": "Mitchell Duke",
+        "foil": false
+    },
+    {
+        "id": "AUS 18",
+        "category": "Austrália",
+        "name": "Craig Goodwin",
+        "foil": false
+    },
+    {
+        "id": "AUS 19",
+        "category": "Austrália",
+        "name": "Mathew Leckie",
+        "foil": false
+    },
+    {
+        "id": "AUS 20",
+        "category": "Austrália",
+        "name": "Adam Taggart",
+        "foil": false
+    },
+    {
+        "id": "DEN 1",
+        "category": "Dinamarca",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "DEN 2",
+        "category": "Dinamarca",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "DEN 3",
+        "category": "Dinamarca",
+        "name": "Kasper Schmeichel",
+        "foil": false
+    },
+    {
+        "id": "DEN 4",
+        "category": "Dinamarca",
+        "name": "Frederik Rønnow",
+        "foil": false
+    },
+    {
+        "id": "DEN 5",
+        "category": "Dinamarca",
+        "name": "Andreas Christensen",
+        "foil": false
+    },
+    {
+        "id": "DEN 6",
+        "category": "Dinamarca",
+        "name": "Simon Kjær",
+        "foil": false
+    },
+    {
+        "id": "DEN 7",
+        "category": "Dinamarca",
+        "name": "Joakim Mæhle",
+        "foil": false
+    },
+    {
+        "id": "DEN 8",
+        "category": "Dinamarca",
+        "name": "Jens Stryger Larsen",
+        "foil": false
+    },
+    {
+        "id": "DEN 9",
+        "category": "Dinamarca",
+        "name": "Jannik Vestergaard",
+        "foil": false
+    },
+    {
+        "id": "DEN 10",
+        "category": "Dinamarca",
+        "name": "Mikkel Damsgaard",
+        "foil": false
+    },
+    {
+        "id": "DEN 11",
+        "category": "Dinamarca",
+        "name": "Thomas Delaney",
+        "foil": false
+    },
+    {
+        "id": "DEN 12",
+        "category": "Dinamarca",
+        "name": "Christian Eriksen",
+        "foil": false
+    },
+    {
+        "id": "DEN 13",
+        "category": "Dinamarca",
+        "name": "Pierre Emile Højbjerg",
+        "foil": false
+    },
+    {
+        "id": "DEN 14",
+        "category": "Dinamarca",
+        "name": "Christian Nørgaard",
+        "foil": false
+    },
+    {
+        "id": "DEN 15",
+        "category": "Dinamarca",
+        "name": "Daniel Wass",
+        "foil": false
+    },
+    {
+        "id": "DEN 16",
+        "category": "Dinamarca",
+        "name": "Martin Braithwaite",
+        "foil": false
+    },
+    {
+        "id": "DEN 17",
+        "category": "Dinamarca",
+        "name": "Kasper Dolberg",
+        "foil": false
+    },
+    {
+        "id": "DEN 18",
+        "category": "Dinamarca",
+        "name": "Yussuf Poulsen",
+        "foil": false
+    },
+    {
+        "id": "DEN 19",
+        "category": "Dinamarca",
+        "name": "Andreas Skov Olsen",
+        "foil": false
+    },
+    {
+        "id": "DEN 20",
+        "category": "Dinamarca",
+        "name": "Jonas Wind",
+        "foil": false
+    },
+    {
+        "id": "TUN 1",
+        "category": "Tunísia",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "TUN 2",
+        "category": "Tunísia",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "TUN 3",
+        "category": "Tunísia",
+        "name": "Bechir Ben Saïd",
+        "foil": false
+    },
+    {
+        "id": "TUN 4",
+        "category": "Tunísia",
+        "name": "Farouk Ben Mustapha",
+        "foil": false
+    },
+    {
+        "id": "TUN 5",
+        "category": "Tunísia",
+        "name": "Dylan Bronn",
+        "foil": false
+    },
+    {
+        "id": "TUN 6",
+        "category": "Tunísia",
+        "name": "Mohamed Dräger",
+        "foil": false
+    },
+    {
+        "id": "TUN 7",
+        "category": "Tunísia",
+        "name": "Bilel Ifa",
+        "foil": false
+    },
+    {
+        "id": "TUN 8",
+        "category": "Tunísia",
+        "name": "Ali Maâloul",
+        "foil": false
+    },
+    {
+        "id": "TUN 9",
+        "category": "Tunísia",
+        "name": "Hamza Mathlouthi",
+        "foil": false
+    },
+    {
+        "id": "TUN 10",
+        "category": "Tunísia",
+        "name": "Yassine Meriah",
+        "foil": false
+    },
+    {
+        "id": "TUN 11",
+        "category": "Tunísia",
+        "name": "Montassar Talbi",
+        "foil": false
+    },
+    {
+        "id": "TUN 12",
+        "category": "Tunísia",
+        "name": "Mohamed Ali Ben Romdhane",
+        "foil": false
+    },
+    {
+        "id": "TUN 13",
+        "category": "Tunísia",
+        "name": "Wahbi Khazri",
+        "foil": false
+    },
+    {
+        "id": "TUN 14",
+        "category": "Tunísia",
+        "name": "Aïssa Laïdouni",
+        "foil": false
+    },
+    {
+        "id": "TUN 15",
+        "category": "Tunísia",
+        "name": "Ferjani Sassi",
+        "foil": false
+    },
+    {
+        "id": "TUN 16",
+        "category": "Tunísia",
+        "name": "Ellyes Skhiri",
+        "foil": false
+    },
+    {
+        "id": "TUN 17",
+        "category": "Tunísia",
+        "name": "Anis Slimane",
+        "foil": false
+    },
+    {
+        "id": "TUN 18",
+        "category": "Tunísia",
+        "name": "Seifeddine Jaziri",
+        "foil": false
+    },
+    {
+        "id": "TUN 19",
+        "category": "Tunísia",
+        "name": "Youssef Msakni",
+        "foil": false
+    },
+    {
+        "id": "TUN 20",
+        "category": "Tunísia",
+        "name": "Naïm Sliti",
+        "foil": false
+    },
+    {
+        "id": "ESP 1",
+        "category": "Espanha",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "ESP 2",
+        "category": "Espanha",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "ESP 3",
+        "category": "Espanha",
+        "name": "Unai Simón",
+        "foil": false
+    },
+    {
+        "id": "ESP 4",
+        "category": "Espanha",
+        "name": "Robert Sánchez",
+        "foil": false
+    },
+    {
+        "id": "ESP 5",
+        "category": "Espanha",
+        "name": "César Azpilicueta",
+        "foil": false
+    },
+    {
+        "id": "ESP 6",
+        "category": "Espanha",
+        "name": "Eric García",
+        "foil": false
+    },
+    {
+        "id": "ESP 7",
+        "category": "Espanha",
+        "name": "Jordi Alba",
+        "foil": false
+    },
+    {
+        "id": "ESP 8",
+        "category": "Espanha",
+        "name": "Aymeric Laporte",
+        "foil": false
+    },
+    {
+        "id": "ESP 9",
+        "category": "Espanha",
+        "name": "Pau Torres",
+        "foil": false
+    },
+    {
+        "id": "ESP 10",
+        "category": "Espanha",
+        "name": "Gavi",
+        "foil": false
+    },
+    {
+        "id": "ESP 11",
+        "category": "Espanha",
+        "name": "Koke",
+        "foil": false
+    },
+    {
+        "id": "ESP 12",
+        "category": "Espanha",
+        "name": "Marcos Llorente",
+        "foil": false
+    },
+    {
+        "id": "ESP 13",
+        "category": "Espanha",
+        "name": "Pedri",
+        "foil": false
+    },
+    {
+        "id": "ESP 14",
+        "category": "Espanha",
+        "name": "Rodri",
+        "foil": false
+    },
+    {
+        "id": "ESP 15",
+        "category": "Espanha",
+        "name": "Sergio Busquets",
+        "foil": false
+    },
+    {
+        "id": "ESP 16",
+        "category": "Espanha",
+        "name": "Dani Olmo",
+        "foil": false
+    },
+    {
+        "id": "ESP 17",
+        "category": "Espanha",
+        "name": "Ansu Fati",
+        "foil": false
+    },
+    {
+        "id": "ESP 18",
+        "category": "Espanha",
+        "name": "Ferran Torres",
+        "foil": false
+    },
+    {
+        "id": "ESP 19",
+        "category": "Espanha",
+        "name": "Álvaro Morata",
+        "foil": false
+    },
+    {
+        "id": "ESP 20",
+        "category": "Espanha",
+        "name": "Pablo Sarabia",
+        "foil": false
+    },
+    {
+        "id": "CRC 1",
+        "category": "Costa Rica",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "CRC 2",
+        "category": "Costa Rica",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "CRC 3",
+        "category": "Costa Rica",
+        "name": "Keylor Navas",
+        "foil": false
+    },
+    {
+        "id": "CRC 4",
+        "category": "Costa Rica",
+        "name": "Leonel Moreira",
+        "foil": false
+    },
+    {
+        "id": "CRC 5",
+        "category": "Costa Rica",
+        "name": "Ricardo Blanco",
+        "foil": false
+    },
+    {
+        "id": "CRC 6",
+        "category": "Costa Rica",
+        "name": "Francisco Calvo",
+        "foil": false
+    },
+    {
+        "id": "CRC 7",
+        "category": "Costa Rica",
+        "name": "Óscar Duarte",
+        "foil": false
+    },
+    {
+        "id": "CRC 8",
+        "category": "Costa Rica",
+        "name": "Keysher Fuller",
+        "foil": false
+    },
+    {
+        "id": "CRC 9",
+        "category": "Costa Rica",
+        "name": "Bryan Oviedo",
+        "foil": false
+    },
+    {
+        "id": "CRC 10",
+        "category": "Costa Rica",
+        "name": "Juan Pablo Vargas",
+        "foil": false
+    },
+    {
+        "id": "CRC 11",
+        "category": "Costa Rica",
+        "name": "Kendall Waston",
+        "foil": false
+    },
+    {
+        "id": "CRC 12",
+        "category": "Costa Rica",
+        "name": "Celso Borges",
+        "foil": false
+    },
+    {
+        "id": "CRC 13",
+        "category": "Costa Rica",
+        "name": "Orlando Galo",
+        "foil": false
+    },
+    {
+        "id": "CRC 14",
+        "category": "Costa Rica",
+        "name": "Bryan Ruiz",
+        "foil": false
+    },
+    {
+        "id": "CRC 15",
+        "category": "Costa Rica",
+        "name": "Yeltsin Tejeda",
+        "foil": false
+    },
+    {
+        "id": "CRC 16",
+        "category": "Costa Rica",
+        "name": "Jewison Bennette",
+        "foil": false
+    },
+    {
+        "id": "CRC 17",
+        "category": "Costa Rica",
+        "name": "Joel Campbell",
+        "foil": false
+    },
+    {
+        "id": "CRC 18",
+        "category": "Costa Rica",
+        "name": "Anthony Contreras",
+        "foil": false
+    },
+    {
+        "id": "CRC 19",
+        "category": "Costa Rica",
+        "name": "Gerson Torres",
+        "foil": false
+    },
+    {
+        "id": "CRC 20",
+        "category": "Costa Rica",
+        "name": "Johan Venegas",
+        "foil": false
+    },
+    {
+        "id": "GER 1",
+        "category": "Alemanha",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "GER 2",
+        "category": "Alemanha",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "GER 3",
+        "category": "Alemanha",
+        "name": "Manuel Neuer",
+        "foil": false
+    },
+    {
+        "id": "GER 4",
+        "category": "Alemanha",
+        "name": "Marc-André ter Stegen",
+        "foil": false
+    },
+    {
+        "id": "GER 5",
+        "category": "Alemanha",
+        "name": "Matthias Ginter",
+        "foil": false
+    },
+    {
+        "id": "GER 6",
+        "category": "Alemanha",
+        "name": "Robin Gosens",
+        "foil": false
+    },
+    {
+        "id": "GER 7",
+        "category": "Alemanha",
+        "name": "Thilo Kehrer",
+        "foil": false
+    },
+    {
+        "id": "GER 8",
+        "category": "Alemanha",
+        "name": "David Raum",
+        "foil": false
+    },
+    {
+        "id": "GER 9",
+        "category": "Alemanha",
+        "name": "Antonio Rüdiger",
+        "foil": false
+    },
+    {
+        "id": "GER 10",
+        "category": "Alemanha",
+        "name": "Niklas Süle",
+        "foil": false
+    },
+    {
+        "id": "GER 11",
+        "category": "Alemanha",
+        "name": "Leon Goretzka",
+        "foil": false
+    },
+    {
+        "id": "GER 12",
+        "category": "Alemanha",
+        "name": "İlkay Gündoğan",
+        "foil": false
+    },
+    {
+        "id": "GER 13",
+        "category": "Alemanha",
+        "name": "Kai Havertz",
+        "foil": false
+    },
+    {
+        "id": "GER 14",
+        "category": "Alemanha",
+        "name": "Jonas Hofmann",
+        "foil": false
+    },
+    {
+        "id": "GER 15",
+        "category": "Alemanha",
+        "name": "Joshua Kimmich",
+        "foil": false
+    },
+    {
+        "id": "GER 16",
+        "category": "Alemanha",
+        "name": "Serge Gnabry",
+        "foil": false
+    },
+    {
+        "id": "GER 17",
+        "category": "Alemanha",
+        "name": "Thomas Müller",
+        "foil": false
+    },
+    {
+        "id": "GER 18",
+        "category": "Alemanha",
+        "name": "Marco Reus",
+        "foil": false
+    },
+    {
+        "id": "GER 19",
+        "category": "Alemanha",
+        "name": "Leroy Sané",
+        "foil": false
+    },
+    {
+        "id": "GER 20",
+        "category": "Alemanha",
+        "name": "Timo Werner",
+        "foil": false
+    },
+    {
+        "id": "JPN 1",
+        "category": "Japão",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "JPN 2",
+        "category": "Japão",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "JPN 3",
+        "category": "Japão",
+        "name": "Shuichi Gonda",
+        "foil": false
+    },
+    {
+        "id": "JPN 4",
+        "category": "Japão",
+        "name": "Eiji Kawashima",
+        "foil": false
+    },
+    {
+        "id": "JPN 5",
+        "category": "Japão",
+        "name": "Yuto Nagatomo",
+        "foil": false
+    },
+    {
+        "id": "JPN 6",
+        "category": "Japão",
+        "name": "Yuta Nakayama",
+        "foil": false
+    },
+    {
+        "id": "JPN 7",
+        "category": "Japão",
+        "name": "Takehiro Tomiyasu",
+        "foil": false
+    },
+    {
+        "id": "JPN 8",
+        "category": "Japão",
+        "name": "Miki Yamane",
+        "foil": false
+    },
+    {
+        "id": "JPN 9",
+        "category": "Japão",
+        "name": "Maya Yoshida",
+        "foil": false
+    },
+    {
+        "id": "JPN 10",
+        "category": "Japão",
+        "name": "Wataru Endo",
+        "foil": false
+    },
+    {
+        "id": "JPN 11",
+        "category": "Japão",
+        "name": "Genki Haraguchi",
+        "foil": false
+    },
+    {
+        "id": "JPN 12",
+        "category": "Japão",
+        "name": "Hidemasa Morita",
+        "foil": false
+    },
+    {
+        "id": "JPN 13",
+        "category": "Japão",
+        "name": "Gaku Shibasaki",
+        "foil": false
+    },
+    {
+        "id": "JPN 14",
+        "category": "Japão",
+        "name": "Ao Tanaka",
+        "foil": false
+    },
+    {
+        "id": "JPN 15",
+        "category": "Japão",
+        "name": "Takuma Asano",
+        "foil": false
+    },
+    {
+        "id": "JPN 16",
+        "category": "Japão",
+        "name": "Kyogo Furuhashi",
+        "foil": false
+    },
+    {
+        "id": "JPN 17",
+        "category": "Japão",
+        "name": "Junya Ito",
+        "foil": false
+    },
+    {
+        "id": "JPN 18",
+        "category": "Japão",
+        "name": "Takumi Minamino",
+        "foil": false
+    },
+    {
+        "id": "JPN 19",
+        "category": "Japão",
+        "name": "Kaoru Mitoma",
+        "foil": false
+    },
+    {
+        "id": "JPN 20",
+        "category": "Japão",
+        "name": "Yuya Osako",
+        "foil": false
+    },
+    {
+        "id": "BEL 1",
+        "category": "Bélgica",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "BEL 2",
+        "category": "Bélgica",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "BEL 3",
+        "category": "Bélgica",
+        "name": "Thibaut Courtois",
+        "foil": false
+    },
+    {
+        "id": "BEL 4",
+        "category": "Bélgica",
+        "name": "Simon Mignolet",
+        "foil": false
+    },
+    {
+        "id": "BEL 5",
+        "category": "Bélgica",
+        "name": "Toby Alderweireld",
+        "foil": false
+    },
+    {
+        "id": "BEL 6",
+        "category": "Bélgica",
+        "name": "Timothy Castagne",
+        "foil": false
+    },
+    {
+        "id": "BEL 7",
+        "category": "Bélgica",
+        "name": "Jason Denayer",
+        "foil": false
+    },
+    {
+        "id": "BEL 8",
+        "category": "Bélgica",
+        "name": "Thomas Meunier",
+        "foil": false
+    },
+    {
+        "id": "BEL 9",
+        "category": "Bélgica",
+        "name": "Jan Vertonghen",
+        "foil": false
+    },
+    {
+        "id": "BEL 10",
+        "category": "Bélgica",
+        "name": "Yannick Carrasco",
+        "foil": false
+    },
+    {
+        "id": "BEL 11",
+        "category": "Bélgica",
+        "name": "Kevin De Bruyne",
+        "foil": false
+    },
+    {
+        "id": "BEL 12",
+        "category": "Bélgica",
+        "name": "Charles De Ketelaere",
+        "foil": false
+    },
+    {
+        "id": "BEL 13",
+        "category": "Bélgica",
+        "name": "Thorgan Hazard",
+        "foil": false
+    },
+    {
+        "id": "BEL 14",
+        "category": "Bélgica",
+        "name": "Youri Tielemans",
+        "foil": false
+    },
+    {
+        "id": "BEL 15",
+        "category": "Bélgica",
+        "name": "Hans Vanaken",
+        "foil": false
+    },
+    {
+        "id": "BEL 16",
+        "category": "Bélgica",
+        "name": "Axel Witsel",
+        "foil": false
+    },
+    {
+        "id": "BEL 17",
+        "category": "Bélgica",
+        "name": "Jérémy Doku",
+        "foil": false
+    },
+    {
+        "id": "BEL 18",
+        "category": "Bélgica",
+        "name": "Eden Hazard",
+        "foil": false
+    },
+    {
+        "id": "BEL 19",
+        "category": "Bélgica",
+        "name": "Romelu Lukaku",
+        "foil": false
+    },
+    {
+        "id": "BEL 20",
+        "category": "Bélgica",
+        "name": "Dries Mertens",
+        "foil": false
+    },
+    {
+        "id": "CAN 1",
+        "category": "Canadá",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "CAN 2",
+        "category": "Canadá",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "CAN 3",
+        "category": "Canadá",
+        "name": "Milan Borjan",
+        "foil": false
+    },
+    {
+        "id": "CAN 4",
+        "category": "Canadá",
+        "name": "Maxime Crépeau",
+        "foil": false
+    },
+    {
+        "id": "CAN 5",
+        "category": "Canadá",
+        "name": "Samuel Adekugbe",
+        "foil": false
+    },
+    {
+        "id": "CAN 6",
+        "category": "Canadá",
+        "name": "Doneil Henry",
+        "foil": false
+    },
+    {
+        "id": "CAN 7",
+        "category": "Canadá",
+        "name": "Alistair Johnston",
+        "foil": false
+    },
+    {
+        "id": "CAN 8",
+        "category": "Canadá",
+        "name": "Richie Laryea",
+        "foil": false
+    },
+    {
+        "id": "CAN 9",
+        "category": "Canadá",
+        "name": "Kamal Miller",
+        "foil": false
+    },
+    {
+        "id": "CAN 10",
+        "category": "Canadá",
+        "name": "Steven Vitória",
+        "foil": false
+    },
+    {
+        "id": "CAN 11",
+        "category": "Canadá",
+        "name": "Tajon Buchanan",
+        "foil": false
+    },
+    {
+        "id": "CAN 12",
+        "category": "Canadá",
+        "name": "Alphonso Davies",
+        "foil": false
+    },
+    {
+        "id": "CAN 13",
+        "category": "Canadá",
+        "name": "Stephen Eustáquio",
+        "foil": false
+    },
+    {
+        "id": "CAN 14",
+        "category": "Canadá",
+        "name": "Atiba Hutchinson",
+        "foil": false
+    },
+    {
+        "id": "CAN 15",
+        "category": "Canadá",
+        "name": "Mark-Anthony Kaye",
+        "foil": false
+    },
+    {
+        "id": "CAN 16",
+        "category": "Canadá",
+        "name": "Jonathan Osorio",
+        "foil": false
+    },
+    {
+        "id": "CAN 17",
+        "category": "Canadá",
+        "name": "Samuel Piette",
+        "foil": false
+    },
+    {
+        "id": "CAN 18",
+        "category": "Canadá",
+        "name": "Jonathan David",
+        "foil": false
+    },
+    {
+        "id": "CAN 19",
+        "category": "Canadá",
+        "name": "David Junior Hoilett",
+        "foil": false
+    },
+    {
+        "id": "CAN 20",
+        "category": "Canadá",
+        "name": "Cyle Larin",
+        "foil": false
+    },
+    {
+        "id": "MAR 1",
+        "category": "Marrocos",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "MAR 2",
+        "category": "Marrocos",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "MAR 3",
+        "category": "Marrocos",
+        "name": "Yassine Bounou",
+        "foil": false
+    },
+    {
+        "id": "MAR 4",
+        "category": "Marrocos",
+        "name": "Munir Mohamedi",
+        "foil": false
+    },
+    {
+        "id": "MAR 5",
+        "category": "Marrocos",
+        "name": "Nayef Aguerd",
+        "foil": false
+    },
+    {
+        "id": "MAR 6",
+        "category": "Marrocos",
+        "name": "Achraf Hakimi",
+        "foil": false
+    },
+    {
+        "id": "MAR 7",
+        "category": "Marrocos",
+        "name": "Adam Masina",
+        "foil": false
+    },
+    {
+        "id": "MAR 8",
+        "category": "Marrocos",
+        "name": "Samy Mmaee",
+        "foil": false
+    },
+    {
+        "id": "MAR 9",
+        "category": "Marrocos",
+        "name": "Romain Saïss",
+        "foil": false
+    },
+    {
+        "id": "MAR 10",
+        "category": "Marrocos",
+        "name": "Selim Amallah",
+        "foil": false
+    },
+    {
+        "id": "MAR 11",
+        "category": "Marrocos",
+        "name": "Sofyan Amrabat",
+        "foil": false
+    },
+    {
+        "id": "MAR 12",
+        "category": "Marrocos",
+        "name": "Aymen Barkok",
+        "foil": false
+    },
+    {
+        "id": "MAR 13",
+        "category": "Marrocos",
+        "name": "Ilias Chair",
+        "foil": false
+    },
+    {
+        "id": "MAR 14",
+        "category": "Marrocos",
+        "name": "Imrân Louza",
+        "foil": false
+    },
+    {
+        "id": "MAR 15",
+        "category": "Marrocos",
+        "name": "Sofiane Boufal",
+        "foil": false
+    },
+    {
+        "id": "MAR 16",
+        "category": "Marrocos",
+        "name": "Ayoub El Kaabi",
+        "foil": false
+    },
+    {
+        "id": "MAR 17",
+        "category": "Marrocos",
+        "name": "Youssef En-Nesyri",
+        "foil": false
+    },
+    {
+        "id": "MAR 18",
+        "category": "Marrocos",
+        "name": "Ryan Mmaee",
+        "foil": false
+    },
+    {
+        "id": "MAR 19",
+        "category": "Marrocos",
+        "name": "Munir",
+        "foil": false
+    },
+    {
+        "id": "MAR 20",
+        "category": "Marrocos",
+        "name": "Tarik Tissoudali",
+        "foil": false
+    },
+    {
+        "id": "CRO 1",
+        "category": "Croácia",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "CRO 2",
+        "category": "Croácia",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "CRO 3",
+        "category": "Croácia",
+        "name": "Dominik Livaković",
+        "foil": false
+    },
+    {
+        "id": "CRO 4",
+        "category": "Croácia",
+        "name": "Ivica Ivušić",
+        "foil": false
+    },
+    {
+        "id": "CRO 5",
+        "category": "Croácia",
+        "name": "Duje Ćaleta-Car",
+        "foil": false
+    },
+    {
+        "id": "CRO 6",
+        "category": "Croácia",
+        "name": "Joško Gvardiol",
+        "foil": false
+    },
+    {
+        "id": "CRO 7",
+        "category": "Croácia",
+        "name": "Josip Juranović",
+        "foil": false
+    },
+    {
+        "id": "CRO 8",
+        "category": "Croácia",
+        "name": "Dejan Lovren",
+        "foil": false
+    },
+    {
+        "id": "CRO 9",
+        "category": "Croácia",
+        "name": "Borna Sosa",
+        "foil": false
+    },
+    {
+        "id": "CRO 10",
+        "category": "Croácia",
+        "name": "Domagoj Vida",
+        "foil": false
+    },
+    {
+        "id": "CRO 11",
+        "category": "Croácia",
+        "name": "Marcelo Brozović",
+        "foil": false
+    },
+    {
+        "id": "CRO 12",
+        "category": "Croácia",
+        "name": "Mateo Kovačić",
+        "foil": false
+    },
+    {
+        "id": "CRO 13",
+        "category": "Croácia",
+        "name": "Luka Modrić",
+        "foil": false
+    },
+    {
+        "id": "CRO 14",
+        "category": "Croácia",
+        "name": "Mario Pašalić",
+        "foil": false
+    },
+    {
+        "id": "CRO 15",
+        "category": "Croácia",
+        "name": "Ivan Perišić",
+        "foil": false
+    },
+    {
+        "id": "CRO 16",
+        "category": "Croácia",
+        "name": "Nikola Vlašić",
+        "foil": false
+    },
+    {
+        "id": "CRO 17",
+        "category": "Croácia",
+        "name": "Josip Brekalo",
+        "foil": false
+    },
+    {
+        "id": "CRO 18",
+        "category": "Croácia",
+        "name": "Andrej Kramarić",
+        "foil": false
+    },
+    {
+        "id": "CRO 19",
+        "category": "Croácia",
+        "name": "Marko Livaja",
+        "foil": false
+    },
+    {
+        "id": "CRO 20",
+        "category": "Croácia",
+        "name": "Mislav Oršić",
+        "foil": false
+    },
+    {
+        "id": "BRA 1",
+        "category": "Brasil",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "BRA 2",
+        "category": "Brasil",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "BRA 3",
+        "category": "Brasil",
+        "name": "Alisson",
+        "foil": false
+    },
+    {
+        "id": "BRA 4",
+        "category": "Brasil",
+        "name": "Ederson",
+        "foil": false
+    },
+    {
+        "id": "BRA 5",
+        "category": "Brasil",
+        "name": "Alex Sandro",
+        "foil": false
+    },
+    {
+        "id": "BRA 6",
+        "category": "Brasil",
+        "name": "Danilo",
+        "foil": false
+    },
+    {
+        "id": "BRA 7",
+        "category": "Brasil",
+        "name": "Éder Militão",
+        "foil": false
+    },
+    {
+        "id": "BRA 8",
+        "category": "Brasil",
+        "name": "Marquinhos",
+        "foil": false
+    },
+    {
+        "id": "BRA 9",
+        "category": "Brasil",
+        "name": "Thiago Silva",
+        "foil": false
+    },
+    {
+        "id": "BRA 10",
+        "category": "Brasil",
+        "name": "Casemiro",
+        "foil": false
+    },
+    {
+        "id": "BRA 11",
+        "category": "Brasil",
+        "name": "Philippe Coutinho",
+        "foil": false
+    },
+    {
+        "id": "BRA 12",
+        "category": "Brasil",
+        "name": "Fabinho",
+        "foil": false
+    },
+    {
+        "id": "BRA 13",
+        "category": "Brasil",
+        "name": "Fred",
+        "foil": false
+    },
+    {
+        "id": "BRA 14",
+        "category": "Brasil",
+        "name": "Lucas Paquetá",
+        "foil": false
+    },
+    {
+        "id": "BRA 15",
+        "category": "Brasil",
+        "name": "Antony",
+        "foil": false
+    },
+    {
+        "id": "BRA 16",
+        "category": "Brasil",
+        "name": "Gabriel Jesus",
+        "foil": false
+    },
+    {
+        "id": "BRA 17",
+        "category": "Brasil",
+        "name": "Neymar Jr",
+        "foil": false
+    },
+    {
+        "id": "BRA 18",
+        "category": "Brasil",
+        "name": "Raphinha",
+        "foil": false
+    },
+    {
+        "id": "BRA 19",
+        "category": "Brasil",
+        "name": "Richarlison",
+        "foil": false
+    },
+    {
+        "id": "BRA 20",
+        "category": "Brasil",
+        "name": "Vinícius Jr",
+        "foil": false
+    },
+    {
+        "id": "SRB 1",
+        "category": "Sérvia",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "SRB 2",
+        "category": "Sérvia",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "SRB 3",
+        "category": "Sérvia",
+        "name": "Predrag Rajković",
+        "foil": false
+    },
+    {
+        "id": "SRB 4",
+        "category": "Sérvia",
+        "name": "Vanja Milinković-Savić",
+        "foil": false
+    },
+    {
+        "id": "SRB 5",
+        "category": "Sérvia",
+        "name": "Nikola Milenković",
+        "foil": false
+    },
+    {
+        "id": "SRB 6",
+        "category": "Sérvia",
+        "name": "Strahinja Pavlović",
+        "foil": false
+    },
+    {
+        "id": "SRB 7",
+        "category": "Sérvia",
+        "name": "Miloš Veljković",
+        "foil": false
+    },
+    {
+        "id": "SRB 8",
+        "category": "Sérvia",
+        "name": "Filip Đuričić",
+        "foil": false
+    },
+    {
+        "id": "SRB 9",
+        "category": "Sérvia",
+        "name": "Nemanja Gudelj",
+        "foil": false
+    },
+    {
+        "id": "SRB 10",
+        "category": "Sérvia",
+        "name": "Filip Kostić",
+        "foil": false
+    },
+    {
+        "id": "SRB 11",
+        "category": "Sérvia",
+        "name": "Darko Lazović",
+        "foil": false
+    },
+    {
+        "id": "SRB 12",
+        "category": "Sérvia",
+        "name": "Saša Lukić",
+        "foil": false
+    },
+    {
+        "id": "SRB 13",
+        "category": "Sérvia",
+        "name": "Nemanja Maksimović",
+        "foil": false
+    },
+    {
+        "id": "SRB 14",
+        "category": "Sérvia",
+        "name": "Sergej Milinković-Savić",
+        "foil": false
+    },
+    {
+        "id": "SRB 15",
+        "category": "Sérvia",
+        "name": "Nemanja Radonjić",
+        "foil": false
+    },
+    {
+        "id": "SRB 16",
+        "category": "Sérvia",
+        "name": "Andrija Živković",
+        "foil": false
+    },
+    {
+        "id": "SRB 17",
+        "category": "Sérvia",
+        "name": "Luka Jović",
+        "foil": false
+    },
+    {
+        "id": "SRB 18",
+        "category": "Sérvia",
+        "name": "Aleksandar Mitrović",
+        "foil": false
+    },
+    {
+        "id": "SRB 19",
+        "category": "Sérvia",
+        "name": "Dušan Tadić",
+        "foil": false
+    },
+    {
+        "id": "SRB 20",
+        "category": "Sérvia",
+        "name": "Dušan Vlahović",
+        "foil": false
+    },
+    {
+        "id": "SUI 1",
+        "category": "Suíça",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "SUI 2",
+        "category": "Suíça",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "SUI 3",
+        "category": "Suíça",
+        "name": "Yann Sommer",
+        "foil": false
+    },
+    {
+        "id": "SUI 4",
+        "category": "Suíça",
+        "name": "Gregor Kobel",
+        "foil": false
+    },
+    {
+        "id": "SUI 5",
+        "category": "Suíça",
+        "name": "Manuel Akanji",
+        "foil": false
+    },
+    {
+        "id": "SUI 6",
+        "category": "Suíça",
+        "name": "Nico Elvedi",
+        "foil": false
+    },
+    {
+        "id": "SUI 7",
+        "category": "Suíça",
+        "name": "Kevin Mbabu",
+        "foil": false
+    },
+    {
+        "id": "SUI 8",
+        "category": "Suíça",
+        "name": "Ricardo Rodríguez",
+        "foil": false
+    },
+    {
+        "id": "SUI 9",
+        "category": "Suíça",
+        "name": "Fabian Schär",
+        "foil": false
+    },
+    {
+        "id": "SUI 10",
+        "category": "Suíça",
+        "name": "Silvan Widmer",
+        "foil": false
+    },
+    {
+        "id": "SUI 11",
+        "category": "Suíça",
+        "name": "Remo Freuler",
+        "foil": false
+    },
+    {
+        "id": "SUI 12",
+        "category": "Suíça",
+        "name": "Xherdan Shaqiri",
+        "foil": false
+    },
+    {
+        "id": "SUI 13",
+        "category": "Suíça",
+        "name": "Djibril Sow",
+        "foil": false
+    },
+    {
+        "id": "SUI 14",
+        "category": "Suíça",
+        "name": "Granit Xhaka",
+        "foil": false
+    },
+    {
+        "id": "SUI 15",
+        "category": "Suíça",
+        "name": "Denis Zakaria",
+        "foil": false
+    },
+    {
+        "id": "SUI 16",
+        "category": "Suíça",
+        "name": "Steven Zuber",
+        "foil": false
+    },
+    {
+        "id": "SUI 17",
+        "category": "Suíça",
+        "name": "Breel Embolo",
+        "foil": false
+    },
+    {
+        "id": "SUI 18",
+        "category": "Suíça",
+        "name": "Noah Okafor",
+        "foil": false
+    },
+    {
+        "id": "SUI 19",
+        "category": "Suíça",
+        "name": "Haris Seferović",
+        "foil": false
+    },
+    {
+        "id": "SUI 20",
+        "category": "Suíça",
+        "name": "Ruben Vargas",
+        "foil": false
+    },
+    {
+        "id": "CMR 1",
+        "category": "Camarões",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "CMR 2",
+        "category": "Camarões",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "CMR 3",
+        "category": "Camarões",
+        "name": "André Onana",
+        "foil": false
+    },
+    {
+        "id": "CMR 4",
+        "category": "Camarões",
+        "name": "Devis Epassy",
+        "foil": false
+    },
+    {
+        "id": "CMR 5",
+        "category": "Camarões",
+        "name": "Jean-Charles Castelletto",
+        "foil": false
+    },
+    {
+        "id": "CMR 6",
+        "category": "Camarões",
+        "name": "Collins Fai",
+        "foil": false
+    },
+    {
+        "id": "CMR 7",
+        "category": "Camarões",
+        "name": "Olivier Mbaizo",
+        "foil": false
+    },
+    {
+        "id": "CMR 8",
+        "category": "Camarões",
+        "name": "Harold Moukoudi",
+        "foil": false
+    },
+    {
+        "id": "CMR 9",
+        "category": "Camarões",
+        "name": "Michael Ngadeu",
+        "foil": false
+    },
+    {
+        "id": "CMR 10",
+        "category": "Camarões",
+        "name": "Nouhou",
+        "foil": false
+    },
+    {
+        "id": "CMR 11",
+        "category": "Camarões",
+        "name": "Martin Hongla",
+        "foil": false
+    },
+    {
+        "id": "CMR 12",
+        "category": "Camarões",
+        "name": "Pierre Kunde",
+        "foil": false
+    },
+    {
+        "id": "CMR 13",
+        "category": "Camarões",
+        "name": "James Léa Siliki",
+        "foil": false
+    },
+    {
+        "id": "CMR 14",
+        "category": "Camarões",
+        "name": "Samuel Oum Gouet",
+        "foil": false
+    },
+    {
+        "id": "CMR 15",
+        "category": "Camarões",
+        "name": "André-Frank Zambo Anguissa",
+        "foil": false
+    },
+    {
+        "id": "CMR 16",
+        "category": "Camarões",
+        "name": "Vincent Aboubakar",
+        "foil": false
+    },
+    {
+        "id": "CMR 17",
+        "category": "Camarões",
+        "name": "Stéphane Bahoken",
+        "foil": false
+    },
+    {
+        "id": "CMR 18",
+        "category": "Camarões",
+        "name": "Eric Maxim Choupo-Moting",
+        "foil": false
+    },
+    {
+        "id": "CMR 19",
+        "category": "Camarões",
+        "name": "Nicolas Moumi Ngamaleu",
+        "foil": false
+    },
+    {
+        "id": "CMR 20",
+        "category": "Camarões",
+        "name": "Karl Toko Ekambi",
+        "foil": false
+    },
+    {
+        "id": "POR 1",
+        "category": "Portugal",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "POR 2",
+        "category": "Portugal",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "POR 3",
+        "category": "Portugal",
+        "name": "Diogo Costa",
+        "foil": false
+    },
+    {
+        "id": "POR 4",
+        "category": "Portugal",
+        "name": "Rui Patrício",
+        "foil": false
+    },
+    {
+        "id": "POR 5",
+        "category": "Portugal",
+        "name": "João Cancelo",
+        "foil": false
+    },
+    {
+        "id": "POR 6",
+        "category": "Portugal",
+        "name": "José Fonte",
+        "foil": false
+    },
+    {
+        "id": "POR 7",
+        "category": "Portugal",
+        "name": "Nuno Mendes",
+        "foil": false
+    },
+    {
+        "id": "POR 8",
+        "category": "Portugal",
+        "name": "Pepe",
+        "foil": false
+    },
+    {
+        "id": "POR 9",
+        "category": "Portugal",
+        "name": "Raphaël Guerreiro",
+        "foil": false
+    },
+    {
+        "id": "POR 10",
+        "category": "Portugal",
+        "name": "Rúben Dias",
+        "foil": false
+    },
+    {
+        "id": "POR 11",
+        "category": "Portugal",
+        "name": "Bernardo Silva",
+        "foil": false
+    },
+    {
+        "id": "POR 12",
+        "category": "Portugal",
+        "name": "Bruno Fernandes",
+        "foil": false
+    },
+    {
+        "id": "POR 13",
+        "category": "Portugal",
+        "name": "Danilo Pereira",
+        "foil": false
+    },
+    {
+        "id": "POR 14",
+        "category": "Portugal",
+        "name": "João Moutinho",
+        "foil": false
+    },
+    {
+        "id": "POR 15",
+        "category": "Portugal",
+        "name": "Renato Sanches",
+        "foil": false
+    },
+    {
+        "id": "POR 16",
+        "category": "Portugal",
+        "name": "Rúben Neves",
+        "foil": false
+    },
+    {
+        "id": "POR 17",
+        "category": "Portugal",
+        "name": "André Silva",
+        "foil": false
+    },
+    {
+        "id": "POR 18",
+        "category": "Portugal",
+        "name": "Cristiano Ronaldo",
+        "foil": false
+    },
+    {
+        "id": "POR 19",
+        "category": "Portugal",
+        "name": "Diogo Jota",
+        "foil": false
+    },
+    {
+        "id": "POR 20",
+        "category": "Portugal",
+        "name": "Gonçalo Guedes",
+        "foil": false
+    },
+    {
+        "id": "GHA 1",
+        "category": "Gana",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "GHA 2",
+        "category": "Gana",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "GHA 3",
+        "category": "Gana",
+        "name": "Joe Wollacott",
+        "foil": false
+    },
+    {
+        "id": "GHA 4",
+        "category": "Gana",
+        "name": "Richard Ofori",
+        "foil": false
+    },
+    {
+        "id": "GHA 5",
+        "category": "Gana",
+        "name": "Daniel Amartey",
+        "foil": false
+    },
+    {
+        "id": "GHA 6",
+        "category": "Gana",
+        "name": "Abdul-Rahman Baba",
+        "foil": false
+    },
+    {
+        "id": "GHA 7",
+        "category": "Gana",
+        "name": "Alexander Djiku",
+        "foil": false
+    },
+    {
+        "id": "GHA 8",
+        "category": "Gana",
+        "name": "Gideon Mensah",
+        "foil": false
+    },
+    {
+        "id": "GHA 9",
+        "category": "Gana",
+        "name": "Jonathan Mensah",
+        "foil": false
+    },
+    {
+        "id": "GHA 10",
+        "category": "Gana",
+        "name": "Andy Yiadom",
+        "foil": false
+    },
+    {
+        "id": "GHA 11",
+        "category": "Gana",
+        "name": "Iddrisu Baba",
+        "foil": false
+    },
+    {
+        "id": "GHA 12",
+        "category": "Gana",
+        "name": "Mohammed Kudus",
+        "foil": false
+    },
+    {
+        "id": "GHA 13",
+        "category": "Gana",
+        "name": "Daniel-Kofi Kyereh",
+        "foil": false
+    },
+    {
+        "id": "GHA 14",
+        "category": "Gana",
+        "name": "Thomas Partey",
+        "foil": false
+    },
+    {
+        "id": "GHA 15",
+        "category": "Gana",
+        "name": "Mubarak Wakaso",
+        "foil": false
+    },
+    {
+        "id": "GHA 16",
+        "category": "Gana",
+        "name": "Felix Afena-Gyan",
+        "foil": false
+    },
+    {
+        "id": "GHA 17",
+        "category": "Gana",
+        "name": "André Ayew",
+        "foil": false
+    },
+    {
+        "id": "GHA 18",
+        "category": "Gana",
+        "name": "Jordan Ayew",
+        "foil": false
+    },
+    {
+        "id": "GHA 19",
+        "category": "Gana",
+        "name": "Issahaku Abdul Fatawu",
+        "foil": false
+    },
+    {
+        "id": "GHA 20",
+        "category": "Gana",
+        "name": "Kamaldeen Sulemana",
+        "foil": false
+    },
+    {
+        "id": "URU 1",
+        "category": "Uruguai",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "URU 2",
+        "category": "Uruguai",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "URU 3",
+        "category": "Uruguai",
+        "name": "Fernando Muslera",
+        "foil": false
+    },
+    {
+        "id": "URU 4",
+        "category": "Uruguai",
+        "name": "Sergio Rochet",
+        "foil": false
+    },
+    {
+        "id": "URU 5",
+        "category": "Uruguai",
+        "name": "Ronald Araújo",
+        "foil": false
+    },
+    {
+        "id": "URU 6",
+        "category": "Uruguai",
+        "name": "Martín Cáceres",
+        "foil": false
+    },
+    {
+        "id": "URU 7",
+        "category": "Uruguai",
+        "name": "José María Giménez",
+        "foil": false
+    },
+    {
+        "id": "URU 8",
+        "category": "Uruguai",
+        "name": "Diego Godín",
+        "foil": false
+    },
+    {
+        "id": "URU 9",
+        "category": "Uruguai",
+        "name": "Mathías Olivera",
+        "foil": false
+    },
+    {
+        "id": "URU 10",
+        "category": "Uruguai",
+        "name": "Matías Viña",
+        "foil": false
+    },
+    {
+        "id": "URU 11",
+        "category": "Uruguai",
+        "name": "Rodrigo Bentancur",
+        "foil": false
+    },
+    {
+        "id": "URU 12",
+        "category": "Uruguai",
+        "name": "Giorgian De Arrascaeta",
+        "foil": false
+    },
+    {
+        "id": "URU 13",
+        "category": "Uruguai",
+        "name": "Nicolás De La Cruz",
+        "foil": false
+    },
+    {
+        "id": "URU 14",
+        "category": "Uruguai",
+        "name": "Lucas Torreira",
+        "foil": false
+    },
+    {
+        "id": "URU 15",
+        "category": "Uruguai",
+        "name": "Federico Valverde",
+        "foil": false
+    },
+    {
+        "id": "URU 16",
+        "category": "Uruguai",
+        "name": "Matías Vecino",
+        "foil": false
+    },
+    {
+        "id": "URU 17",
+        "category": "Uruguai",
+        "name": "Edinson Cavani",
+        "foil": false
+    },
+    {
+        "id": "URU 18",
+        "category": "Uruguai",
+        "name": "Darwin Núñez",
+        "foil": false
+    },
+    {
+        "id": "URU 19",
+        "category": "Uruguai",
+        "name": "Facundo Pellistri",
+        "foil": false
+    },
+    {
+        "id": "URU 20",
+        "category": "Uruguai",
+        "name": "Luis Suárez",
+        "foil": false
+    },
+    {
+        "id": "KOR 1",
+        "category": "Coreia do Sul",
+        "name": "Foto da Equipe",
+        "foil": false
+    },
+    {
+        "id": "KOR 2",
+        "category": "Coreia do Sul",
+        "name": "Logo da Equipe",
+        "foil": true
+    },
+    {
+        "id": "KOR 3",
+        "category": "Coreia do Sul",
+        "name": "Seung-gyu Kim",
+        "foil": false
+    },
+    {
+        "id": "KOR 4",
+        "category": "Coreia do Sul",
+        "name": "Hyeon-woo Jo",
+        "foil": false
+    },
+    {
+        "id": "KOR 5",
+        "category": "Coreia do Sul",
+        "name": "Chul Hong",
+        "foil": false
+    },
+    {
+        "id": "KOR 6",
+        "category": "Coreia do Sul",
+        "name": "Tae-hwan Kim",
+        "foil": false
+    },
+    {
+        "id": "KOR 7",
+        "category": "Coreia do Sul",
+        "name": "Min-jae Kim",
+        "foil": false
+    },
+    {
+        "id": "KOR 8",
+        "category": "Coreia do Sul",
+        "name": "Young-gwon Kim",
+        "foil": false
+    },
+    {
+        "id": "KOR 9",
+        "category": "Coreia do Sul",
+        "name": "Jin-su Kim",
+        "foil": false
+    },
+    {
+        "id": "KOR 10",
+        "category": "Coreia do Sul",
+        "name": "Yong Lee",
+        "foil": false
+    },
+    {
+        "id": "KOR 11",
+        "category": "Coreia do Sul",
+        "name": "In-beom Hwang",
+        "foil": false
+    },
+    {
+        "id": "KOR 12",
+        "category": "Coreia do Sul",
+        "name": "Woo-young Jung",
+        "foil": false
+    },
+    {
+        "id": "KOR 13",
+        "category": "Coreia do Sul",
+        "name": "Jae-sung Lee",
+        "foil": false
+    },
+    {
+        "id": "KOR 14",
+        "category": "Coreia do Sul",
+        "name": "Seung-ho Paik",
+        "foil": false
+    },
+    {
+        "id": "KOR 15",
+        "category": "Coreia do Sul",
+        "name": "Gue-sung Cho",
+        "foil": false
+    },
+    {
+        "id": "KOR 16",
+        "category": "Coreia do Sul",
+        "name": "Hee-chan Hwang",
+        "foil": false
+    },
+    {
+        "id": "KOR 17",
+        "category": "Coreia do Sul",
+        "name": "Ui-jo Hwang",
+        "foil": false
+    },
+    {
+        "id": "KOR 18",
+        "category": "Coreia do Sul",
+        "name": "Chang-hoon Kwon",
+        "foil": false
+    },
+    {
+        "id": "KOR 19",
+        "category": "Coreia do Sul",
+        "name": "Heung-min Son",
+        "foil": false
+    },
+    {
+        "id": "KOR 20",
+        "category": "Coreia do Sul",
+        "name": "Min-kyu Song",
+        "foil": false
+    },
+    {
+        "id": "FWC 19",
+        "category": "Museu da FIFA",
+        "name": "Uruguai 1930",
+        "foil": true
+    },
+    {
+        "id": "FWC 20",
+        "category": "Museu da FIFA",
+        "name": "Itália 1938",
+        "foil": true
+    },
+    {
+        "id": "FWC 21",
+        "category": "Museu da FIFA",
+        "name": "Brasil 1958",
+        "foil": true
+    },
+    {
+        "id": "FWC 22",
+        "category": "Museu da FIFA",
+        "name": "Inglaterra 1966",
+        "foil": true
+    },
+    {
+        "id": "FWC 23",
+        "category": "Museu da FIFA",
+        "name": "Brasil 1970",
+        "foil": true
+    },
+    {
+        "id": "FWC 24",
+        "category": "Museu da FIFA",
+        "name": "Argentina 1978",
+        "foil": true
+    },
+    {
+        "id": "FWC 25",
+        "category": "Museu da FIFA",
+        "name": "Itália 1982",
+        "foil": true
+    },
+    {
+        "id": "FWC 26",
+        "category": "Museu da FIFA",
+        "name": "Alemanha 1990",
+        "foil": true
+    },
+    {
+        "id": "FWC 27",
+        "category": "Museu da FIFA",
+        "name": "França 1998",
+        "foil": true
+    },
+    {
+        "id": "FWC 28",
+        "category": "Museu da FIFA",
+        "name": "Espanha 2010",
+        "foil": true
+    },
+    {
+        "id": "FWC 29",
+        "category": "Museu da FIFA",
+        "name": "França 2018",
+        "foil": true
+    },
+    {
+        "id": "C1",
+        "category": "Coca-Cola",
+        "name": "Serge Gnabry - Alemanha",
+        "foil": false
+    },
+    {
+        "id": "C2",
+        "category": "Coca-Cola",
+        "name": "Emiliano Martínez - Argentina",
+        "foil": false
+    },
+    {
+        "id": "C3",
+        "category": "Coca-Cola",
+        "name": "Kevin De Bruyne - Bélgica",
+        "foil": false
+    },
+    {
+        "id": "C4",
+        "category": "Coca-Cola",
+        "name": "Luka Modrić - Croácia",
+        "foil": false
+    },
+    {
+        "id": "C5",
+        "category": "Coca-Cola",
+        "name": "C5 Declan Rice - Inglaterra",
+        "foil": false
+    },
+    {
+        "id": "C6",
+        "category": "Coca-Cola",
+        "name": "Gavi - Espanha",
+        "foil": false
+    },
+    {
+        "id": "C7",
+        "category": "Coca-Cola",
+        "name": "Hirving Lozano - México",
+        "foil": false
+    },
+    {
+        "id": "C8",
+        "category": "Coca-Cola",
+        "name": "Heung-min Son - Coreia do Sul",
+        "foil": false
+    },
+    {
+        "id": "AAL BOR",
+        "category": "Extra",
+        "name": "Almoez Ali - Qatar (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "SMA BOR",
+        "category": "Extra",
+        "name": "Sadio Mané - Senegal (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "LME BOR",
+        "category": "Extra",
+        "name": "Lionel Messi - Argentina (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "GOC BOR",
+        "category": "Extra",
+        "name": "Guillermo Ochoa - México (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "RLE BOR",
+        "category": "Extra",
+        "name": "Robert Lewandowski - Polônia (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "RVA BOR",
+        "category": "Extra",
+        "name": "Raphaël Varane - França (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "KMB BOR",
+        "category": "Extra",
+        "name": "Kylian Mbappé - França (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "CER BOR",
+        "category": "Extra",
+        "name": "Christian Eriksen - Dinamarca (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "KDB BOR",
+        "category": "Extra",
+        "name": "Kevin De Bruyne - Bélgica (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "LMO BOR",
+        "category": "Extra",
+        "name": "Luka Modrić - Croácia (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "NJR BOR",
+        "category": "Extra",
+        "name": "Neymar Jr - Brasil (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "CRO BOR",
+        "category": "Extra",
+        "name": "Cristiano Ronaldo - Portugal (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "LSU BOR",
+        "category": "Extra",
+        "name": "Luis Suárez - Uruguai (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "HMS BOR",
+        "category": "Extra",
+        "name": "Heung-Min Son - Coreia do Sul (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "RGR BOR",
+        "category": "Extra",
+        "name": "Ryan Gravenberch - Holanda (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "JBE BOR",
+        "category": "Extra",
+        "name": "Jude Bellingham - Inglaterra (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "GRE BOR",
+        "category": "Extra",
+        "name": "Giovanni Reyna - EUA (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "GAV BOR",
+        "category": "Extra",
+        "name": "Gavi - Espanha (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "ADA BOR",
+        "category": "Extra",
+        "name": "Alphonso Davies - Canadá (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "DVL BOR",
+        "category": "Extra",
+        "name": "Dušan Vlahović - Sérvia (Bordô)",
+        "foil": false
+    },
+    {
+        "id": "AAL BRO",
+        "category": "Extra",
+        "name": "Almoez Ali - Qatar (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "SMA BRO",
+        "category": "Extra",
+        "name": "Sadio Mané - Senegal (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "LME BRO",
+        "category": "Extra",
+        "name": "Lionel Messi - Argentina (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "GOC BRO",
+        "category": "Extra",
+        "name": "Guillermo Ochoa - México (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "RLE BRO",
+        "category": "Extra",
+        "name": "Robert Lewandowski - Polônia (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "RVA BRO",
+        "category": "Extra",
+        "name": "Raphaël Varane - França (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "KMB BRO",
+        "category": "Extra",
+        "name": "Kylian Mbappé - França (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "CER BRO",
+        "category": "Extra",
+        "name": "Christian Eriksen - Dinamarca (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "KDB BRO",
+        "category": "Extra",
+        "name": "Kevin De Bruyne - Bélgica (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "LMO BRO",
+        "category": "Extra",
+        "name": "Luka Modrić - Croácia (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "NJR BRO",
+        "category": "Extra",
+        "name": "Neymar Jr - Brasil (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "CRO BRO",
+        "category": "Extra",
+        "name": "Cristiano Ronaldo - Portugal (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "LSU BRO",
+        "category": "Extra",
+        "name": "Luis Suárez - Uruguai (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "HMS BRO",
+        "category": "Extra",
+        "name": "Heung-Min Son - Coreia do Sul (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "RGR BRO",
+        "category": "Extra",
+        "name": "Ryan Gravenberch - Holanda (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "JBE BRO",
+        "category": "Extra",
+        "name": "Jude Bellingham - Inglaterra (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "GRE BRO",
+        "category": "Extra",
+        "name": "Giovanni Reyna - EUA (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "GAV BRO",
+        "category": "Extra",
+        "name": "Gavi - Espanha (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "ADA BRO",
+        "category": "Extra",
+        "name": "Alphonso Davies - Canadá (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "DVL BRO",
+        "category": "Extra",
+        "name": "Dušan Vlahović - Sérvia (Bronze)",
+        "foil": false
+    },
+    {
+        "id": "AAL PRA",
+        "category": "Extra",
+        "name": "Almoez Ali - Qatar (Prata)",
+        "foil": false
+    },
+    {
+        "id": "SMA PRA",
+        "category": "Extra",
+        "name": "Sadio Mané - Senegal (Prata)",
+        "foil": false
+    },
+    {
+        "id": "LME PRA",
+        "category": "Extra",
+        "name": "Lionel Messi - Argentina (Prata)",
+        "foil": false
+    },
+    {
+        "id": "GOC PRA",
+        "category": "Extra",
+        "name": "Guillermo Ochoa - México (Prata)",
+        "foil": false
+    },
+    {
+        "id": "RLE PRA",
+        "category": "Extra",
+        "name": "Robert Lewandowski - Polônia (Prata)",
+        "foil": false
+    },
+    {
+        "id": "RVA PRA",
+        "category": "Extra",
+        "name": "Raphaël Varane - França (Prata)",
+        "foil": false
+    },
+    {
+        "id": "KMB PRA",
+        "category": "Extra",
+        "name": "Kylian Mbappé - França (Prata)",
+        "foil": false
+    },
+    {
+        "id": "CER PRA",
+        "category": "Extra",
+        "name": "Christian Eriksen - Dinamarca (Prata)",
+        "foil": false
+    },
+    {
+        "id": "KDB PRA",
+        "category": "Extra",
+        "name": "Kevin De Bruyne - Bélgica (Prata)",
+        "foil": false
+    },
+    {
+        "id": "LMO PRA",
+        "category": "Extra",
+        "name": "Luka Modrić - Croácia (Prata)",
+        "foil": false
+    },
+    {
+        "id": "NJR PRA",
+        "category": "Extra",
+        "name": "Neymar Jr - Brasil (Prata)",
+        "foil": false
+    },
+    {
+        "id": "CRO PRA",
+        "category": "Extra",
+        "name": "Cristiano Ronaldo - Portugal (Prata)",
+        "foil": false
+    },
+    {
+        "id": "LSU PRA",
+        "category": "Extra",
+        "name": "Luis Suárez - Uruguai (Prata)",
+        "foil": false
+    },
+    {
+        "id": "HMS PRA",
+        "category": "Extra",
+        "name": "Heung-Min Son - Coreia do Sul (Prata)",
+        "foil": false
+    },
+    {
+        "id": "RGR PRA",
+        "category": "Extra",
+        "name": "Ryan Gravenberch - Holanda (Prata)",
+        "foil": false
+    },
+    {
+        "id": "JBE PRA",
+        "category": "Extra",
+        "name": "Jude Bellingham - Inglaterra (Prata)",
+        "foil": false
+    },
+    {
+        "id": "GRE PRA",
+        "category": "Extra",
+        "name": "Giovanni Reyna - EUA (Prata)",
+        "foil": false
+    },
+    {
+        "id": "GAV PRA",
+        "category": "Extra",
+        "name": "Gavi - Espanha (Prata)",
+        "foil": false
+    },
+    {
+        "id": "ADA PRA",
+        "category": "Extra",
+        "name": "Alphonso Davies - Canadá (Prata)",
+        "foil": false
+    },
+    {
+        "id": "DVL PRA",
+        "category": "Extra",
+        "name": "Dušan Vlahović - Sérvia (Prata)",
+        "foil": false
+    },
+    {
+        "id": "AAL OUR",
+        "category": "Extra",
+        "name": "Almoez Ali - Qatar (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "SMA OUR",
+        "category": "Extra",
+        "name": "Sadio Mané - Senegal (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "LME OUR",
+        "category": "Extra",
+        "name": "Lionel Messi - Argentina (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "GOC OUR",
+        "category": "Extra",
+        "name": "Guillermo Ochoa - México (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "RLE OUR",
+        "category": "Extra",
+        "name": "Robert Lewandowski - Polônia (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "RVA OUR",
+        "category": "Extra",
+        "name": "Raphaël Varane - França (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "KMB OUR",
+        "category": "Extra",
+        "name": "Kylian Mbappé - França (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "CER OUR",
+        "category": "Extra",
+        "name": "Christian Eriksen - Dinamarca (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "KDB OUR",
+        "category": "Extra",
+        "name": "Kevin De Bruyne - Bélgica (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "LMO OUR",
+        "category": "Extra",
+        "name": "Luka Modrić - Croácia (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "NJR OUR",
+        "category": "Extra",
+        "name": "Neymar Jr - Brasil (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "CRO OUR",
+        "category": "Extra",
+        "name": "Cristiano Ronaldo - Portugal (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "LSU OUR",
+        "category": "Extra",
+        "name": "Luis Suárez - Uruguai (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "HMS OUR",
+        "category": "Extra",
+        "name": "Heung-Min Son - Coreia do Sul (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "RGR OUR",
+        "category": "Extra",
+        "name": "Ryan Gravenberch - Holanda (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "JBE OUR",
+        "category": "Extra",
+        "name": "Jude Bellingham - Inglaterra (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "GRE OUR",
+        "category": "Extra",
+        "name": "Giovanni Reyna - EUA (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "GAV OUR",
+        "category": "Extra",
+        "name": "Gavi - Espanha (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "ADA OUR",
+        "category": "Extra",
+        "name": "Alphonso Davies - Canadá (Ouro)",
+        "foil": false
+    },
+    {
+        "id": "DVL OUR",
+        "category": "Extra",
+        "name": "Dušan Vlahović - Sérvia (Ouro)",
+        "foil": false
+    }
+]
