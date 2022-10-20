@@ -1,0 +1,40 @@
+<ion-menu contentId="menu-content" menuId="main-menu" side="start" type="overlay">
+	<ion-content class="menu-background">
+		<ion-item routerLink='/home' class="menu-item-home">
+			<ion-icon slot="start" name="home" class="menu-icon"></ion-icon>
+			<ion-label class="menu-label">Home</ion-label>
+		</ion-item>
+
+		<ion-item class="menu-separator"></ion-item>
+
+        <ion-grid>
+            <ion-row>
+                <ion-col size="3">
+                    <ion-button (click)="useAllCategories(true)" class="use-all-categories-button">
+                        <ion-icon slot="icon-only" name="checkmark-done-circle-sharp" class="use-all-categories-icon"></ion-icon>
+                    </ion-button>
+                </ion-col>
+                <ion-col size="3" class="use-all-categories-text">
+                    Marcar Todos
+                </ion-col>
+                <ion-col size="3">
+                    <ion-button (click)="useAllCategories(false)" class="use-all-categories-button">
+                        <ion-icon slot="icon-only" name="close-circle-sharp" class="use-all-categories-icon"></ion-icon>
+                    </ion-button>
+                </ion-col>
+                <ion-col size="3" class="use-all-categories-text">
+                    Remover Todos
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+        <ion-item *ngFor="let item of getAllCategoryList()" class="filter-item">
+            <ion-label class="filter-label">{{item.name}}</ion-label>
+            <ion-checkbox 
+                class="filter-checkbox"
+                [(ngModel)]="item.selected"
+                (ionChange)="updateFilteringStickersByChosenCategories()"
+            ></ion-checkbox>
+        </ion-item>
+	</ion-content>
+</ion-menu>
+<ion-router-outlet id="menu-content"></ion-router-outlet>

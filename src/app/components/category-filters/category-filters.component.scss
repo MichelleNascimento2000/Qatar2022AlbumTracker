@@ -1,0 +1,55 @@
+@import url('https://fonts.cdnfonts.com/css/qatar2022');
+
+.menu-background{
+    --background: var(--theme-color-default-1);
+}
+
+.menu-item-home{
+    --background: var(--theme-color-default-1);
+}
+
+.menu-icon{
+    color: var(--white-default);
+}
+
+.menu-label{
+    font-family: 'Qatar2022';
+    font-size: 25px;
+
+    --color: var(--white-default);
+}
+
+.menu-separator{
+    height: 5px;
+    --background: var(--theme-color-default-3);
+}
+
+.filter-item{
+    --background: var(--theme-color-default-2);
+}
+
+.filter-label{
+    --color: var(--theme-color-light);
+    font-family: 'Qatar2022';
+}
+
+.filter-checkbox{
+    --background: var(--black-default);
+    --background-checked: var(--theme-color-light);
+    --border-color: var(--black-default);
+    --border-color-checked: var(--theme-color-light);
+}
+
+.use-all-categories-button{
+    --background: var(--theme-color-default-3);
+}
+
+.use-all-categories-icon{
+    color: var(--theme-color-default-1);
+}
+
+.use-all-categories-text{
+    font-family: 'Qatar2022';
+    font-size: 12px;
+    margin-top: 10px;
+}

@@ -66,7 +66,7 @@ export class StickersService {
 			obtainedSticker => this.allObtainedStickers.push(...obtainedSticker)
 		);
 
-        this.buildStickersByPageMap('Todos');
+        this.buildStickersByPageMap('Todos', ['Todos']);
     }
 
     //  Verificar se infos das figurinhas obtidas já existe no Storage e recuperá-las
@@ -79,7 +79,7 @@ export class StickersService {
             await this.getObtainedStickersFromStorage();
         }
 
-        this.buildStickersByPageMap('Todos');
+        this.buildStickersByPageMap('Todos', ['Todos']);
 	}
 
     //  Enviar ao Storage Array local atualizado de todas as figurinhas
@@ -154,7 +154,7 @@ export class StickersService {
     }
 
     //  Construir Map de paginação das figurinhas dependendo dos filtros usados
-    public buildStickersByPageMap(obtainedFilter: string){
+    public buildStickersByPageMap(obtainedFilter: string, categoryFilters: string[]){
         this.stickersToPageNumberMap = new Map();
         this.resetPages();
 
@@ -168,6 +168,11 @@ export class StickersService {
                     (obtainedFilter.toLowerCase() == 'obtidas')     ? (this.isStickerObtained(s))    :
                     (obtainedFilter.toLowerCase() == 'repetidas')   ? (this.isStickerDuplicated(s))  : 
                     (s.amount >= 0)
+                ) &&
+                (
+                    !categoryFilters.includes('Todos') ? 
+                    categoryFilters.includes(s.sticker.category) :
+                    categoryFilters != null
                 )
         )){
             
@@ -186,7 +191,8 @@ export class StickersService {
     //  Atualizar figurinhas para exibição baseados nos filtros atuais
     public updateFiltering(){
         this.buildStickersByPageMap(
-            this.currentObtainedFilter
+            this.currentObtainedFilter,
+            this.currentCategoriesFilter
         );
     }
 
