@@ -4,6 +4,47 @@
     --background: linear-gradient(135deg, var(--theme-color-default-3) 0%, var(--theme-color-default-2) 50%, var(--theme-color-default-1) 100%);
 }
 
+.page-number-card{
+    font-family: "Qatar2022";
+    font-weight: 100;
+    font-size: 13px;
+    margin: 0px;
+    padding: 0px;
+    height: 40px;
+    text-align: center;
+}
+
+.page-number-text{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.footer-page-numbering{
+    background-color: var(--theme-color-default-1);
+    position: absolute;
+    bottom: 0px;
+}
+
+.back-forward-page{
+    --background: rgb(11, 2, 19, 0);
+}
+
+.total-stickers-badge{
+    font-family: 'Qatar2022';
+    padding-top: 10px;
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    --background: var(--golden-default);
+    --color: var(--white-default);
+}
+
 .sticker-description{
     --color: var(--theme-color-light);
     font-family: 'Qatar2022';
@@ -15,6 +56,16 @@
     top: 50%;
     left: 0%;
     transform: translate(-50%, -50%);
+}
+
+.invisible-separator{
+    margin-bottom: 60px;
+}
+
+.amount-bar{
+    position: fixed; 
+    margin-bottom: 20px;
+    background-color: var(--theme-color-default-1);
 }
 
 .amount-per-sticker-badge{

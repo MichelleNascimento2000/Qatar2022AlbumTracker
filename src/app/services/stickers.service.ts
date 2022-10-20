@@ -39,8 +39,8 @@ export class StickersService {
     public allCategoryNames: string[] = [];
     public allCategories   : Category[] = [];
 
-    //  Array para exibição de figurinhas atualmente filtradas
-    public stickersToShow: ObtainedSticker[] = [];
+    //  Map para manipular a paginação das figurinhas
+    public stickersToPageNumberMap = new Map();
 
     //  Valores usados atualmente para filtragem
     public currentObtainedFilter: string = ObtainedPhases.Todos;
@@ -66,7 +66,7 @@ export class StickersService {
 			obtainedSticker => this.allObtainedStickers.push(...obtainedSticker)
 		);
 
-        this.buildStickersToShow('Todos');
+        this.buildStickersByPageMap('Todos');
     }
 
     //  Verificar se infos das figurinhas obtidas já existe no Storage e recuperá-las
@@ -79,7 +79,7 @@ export class StickersService {
             await this.getObtainedStickersFromStorage();
         }
 
-        this.buildStickersToShow('Todos');
+        this.buildStickersByPageMap('Todos');
 	}
 
     //  Enviar ao Storage Array local atualizado de todas as figurinhas
@@ -153,12 +153,14 @@ export class StickersService {
         this.repeatedAmount = 0;
     }
 
-    //  Construir Array para exibição das figurinhas devidas
-    public buildStickersToShow(obtainedFilter: string){
+    //  Construir Map de paginação das figurinhas dependendo dos filtros usados
+    public buildStickersByPageMap(obtainedFilter: string){
+        this.stickersToPageNumberMap = new Map();
+        this.resetPages();
 
-        this.stickersToShow = [];
-
+        let pageNumber = 1;
         let itemIndex = 1;
+
         for(let obtainedSticker of this.allObtainedStickers.filter(
             s =>
                 (
@@ -168,18 +170,42 @@ export class StickersService {
                     (s.amount >= 0)
                 )
         )){
-            this.stickersToShow.push(obtainedSticker);
-
+            
+            if(!this.stickersToPageNumberMap.has(pageNumber)){
+                this.stickersToPageNumberMap.set(pageNumber, []);
+            }
+            this.stickersToPageNumberMap.get(pageNumber).push(obtainedSticker);
+            
             if(itemIndex++ == 20){
-                break;
+                pageNumber++;
+                itemIndex = 1;
             }
         }
     }
 
     //  Atualizar figurinhas para exibição baseados nos filtros atuais
     public updateFiltering(){
-        this.buildStickersToShow(
+        this.buildStickersByPageMap(
             this.currentObtainedFilter
         );
+    }
+
+
+    //  Métodos para manipulação das páginas
+    public currentPage = 1;
+    public backPage(){
+        if(this.currentPage > 1){
+            this.currentPage--;
+        }
+    }
+
+    public forwardPage(){
+        if(this.stickersToPageNumberMap.get(this.currentPage + 1) != null){
+            this.currentPage++;
+        }
+    }
+
+    public resetPages(){
+        this.currentPage = 1;
     }
 }

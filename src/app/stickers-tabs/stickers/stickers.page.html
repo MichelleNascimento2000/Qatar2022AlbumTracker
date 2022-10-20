@@ -1,6 +1,25 @@
 <ion-content class="background">
+    <ion-grid slot="fixed" fixed class="amount-bar">
+        <ion-row>
+            <ion-col size="3">
+                <ion-badge class="total-stickers-badge">{{getGeneralObtainedAmount()}}</ion-badge>
+            </ion-col>
+            <ion-col size="3">
+                <ion-badge class="total-stickers-badge">{{getNotObtainedAmount()}}</ion-badge>
+            </ion-col>
+            <ion-col size="3">
+                <ion-badge class="total-stickers-badge">{{getObtainedAmount()}}</ion-badge>
+            </ion-col>
+            <ion-col size="3">
+                <ion-badge class="total-stickers-badge">{{getRepeatedAmount()}}</ion-badge>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+
+	<div class="invisible-separator"></div>
+
     <ion-item
-        *ngFor="let sticker of getStickersToShow()"
+        *ngFor="let sticker of getMapOfObtainedStickers().get(this.getCurrentPage())"
         color="none" 
         class="sticker-description"
         [ngStyle]="{'--color': sticker.sticker.foil ? 'var(--golden-lighter)' : 'var(--theme-color-light)'}"
@@ -33,5 +52,30 @@
                 </ion-col>
             </ion-row>
         </ion-grid>
+        
     </ion-item>
+
+	<div class="invisible-separator"></div>
+
+    <ion-grid fixed slot="fixed" class="footer-page-numbering">
+		<ion-row>
+			<ion-col size="2"></ion-col>
+			<ion-col size="2">
+				<ion-button (click)="backPage()" class="back-forward-page">
+					<ion-icon slot="icon-only" name="arrow-back-circle"></ion-icon>
+				</ion-button>
+			</ion-col>
+			<ion-col size="4">
+				<ion-card color="none" class="page-number-card">
+					<ion-label class="page-number-text">Página {{this.getCurrentPage()}}</ion-label>
+				</ion-card>
+			</ion-col>
+			<ion-col size="2">
+				<ion-button (click)="forwardPage()" class="back-forward-page">
+					<ion-icon slot="icon-only" name="arrow-forward-circle"></ion-icon>
+				</ion-button>
+			</ion-col>
+			<ion-col size="2"></ion-col>
+		</ion-row>
+	</ion-grid>
 </ion-content>

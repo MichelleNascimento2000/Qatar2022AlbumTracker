@@ -14,8 +14,7 @@ const routes: Routes = [
     {
         path: 'stickers-tabs',
         loadChildren: () => import('./stickers-tabs/stickers-tabs.module').then( m => m.StickersTabsPageModule)
-    },
-
+    }
 ];
 
 @NgModule({

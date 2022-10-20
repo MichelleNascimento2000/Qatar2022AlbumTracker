@@ -36,8 +36,8 @@ export class StickersPage implements OnInit {
     }
 
     //  Retorna Map de paginação das figurinhas
-    public getStickersToShow(){
-        return this.stickersService.stickersToShow;
+    public getMapOfObtainedStickers(){
+        return this.stickersService.stickersToPageNumberMap;
     }
 
     //  Atualiza quantidades totais de figurinhas para exibição no topo da tela
@@ -50,5 +50,18 @@ export class StickersPage implements OnInit {
         
         this.stickersService.updateStorage();
         this.stickersService.calculateStickersAmount();
+    }
+
+    //  Métodos para manipulação da paginação
+    public getCurrentPage(){
+        return this.stickersService.currentPage;
+    }
+
+    public backPage(){
+        this.stickersService.backPage();
+    }
+
+    public forwardPage(){
+        this.stickersService.forwardPage();
     }
 }
