@@ -24,9 +24,15 @@ export class HomePage {
         if(!this.stickersService.appAlreadyOpened){
             this.stickersService.buildAllCategoriesList();
             await this.stickersService.checkStorageExistence();
+            this.stickersService.calculateStickersAmount();
 
             this.stickersService.appAlreadyOpened = true;
         }
+    }
+
+    //  Recuperar porcentagem de figurinhas obtidas para exibição no início
+    public getObtainedStickersPercentage(){
+        return this.stickersService.obtainedPercentage;
     }
 
     //  Redirecionar para página inicial de gerenciamento das figurinhas

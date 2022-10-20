@@ -14,7 +14,7 @@
         </ion-button>
     </div>
     <div class="progress-bar-div">
-        <ion-badge class="percentage-badge">50% concluído</ion-badge>
-        <ion-progress-bar class="percentage-progress-bar" value="0.5"></ion-progress-bar>
+        <ion-badge class="percentage-badge">{{(getObtainedStickersPercentage() * 100).toFixed(2)}}% concluído</ion-badge>
+        <ion-progress-bar class="percentage-progress-bar" [value]="getObtainedStickersPercentage()"></ion-progress-bar>
     </div>
 </ion-content>

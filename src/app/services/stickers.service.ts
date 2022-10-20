@@ -24,6 +24,17 @@ export class StickersService {
     //  Array com as figurinhas já obtidas
     public allObtainedStickers: ObtainedSticker[] = [];
 
+    //  Quantidades de figurinhas para usar em cálculos
+    public totalStickersAmount  : number = 678;
+
+    public generalObtainedAmount: number = 0;   //  Todas em quantidade
+    public obtainedAmount       : number = 0;   //  Uma de cada que tem
+    public notObtainedAmount    : number = 0;   //  Uma de cada que não tem
+    public repeatedAmount       : number = 0;   //  Todas em quantidade repetida
+
+    public obtainedPercentage   : number = 0;
+
+
     //  Arrays referentes às categorias
     public allCategoryNames: string[] = [];
     public allCategories   : Category[] = [];
@@ -77,5 +88,56 @@ export class StickersService {
                 }
             )
         );
+    }
+    
+    //  Métodos para verificar status de obtenção das figurinhas
+    public isStickerNotObtained(sticker: ObtainedSticker){
+        return sticker.amount == 0;
+    }
+
+    public isStickerObtained(sticker: ObtainedSticker){
+        return sticker.amount >= 1;
+    }
+
+    public isStickerDuplicated(sticker: ObtainedSticker){
+        return sticker.amount > 1;
+    }
+
+
+    //  Calcular quantidades e porcentagem das figurinhas obtidas
+    public calculateStickersAmount(){
+        this.clearAllAmountsToShow();      
+
+        for(let obtainedSticker of this.allObtainedStickers){
+            if(this.isStickerObtained(obtainedSticker)){
+                this.generalObtainedAmount += obtainedSticker.amount;
+
+                //  Retira-se 1 no final que é a "original" já obtida
+                if(this.isStickerDuplicated(obtainedSticker)){
+                    this.repeatedAmount += obtainedSticker.amount - 1;
+                }
+                
+                //  Extras não contam para contagem de obtidas/não obtidas
+                if(
+                    this.isStickerObtained(obtainedSticker) &&
+                    obtainedSticker.sticker.category.toLowerCase() != 'extra'
+                ){
+                    this.obtainedAmount++;
+                }
+            } 
+
+        }
+        this.notObtainedAmount = this.totalStickersAmount - this.obtainedAmount;
+
+        this.obtainedPercentage = 
+            ((100 * this.obtainedAmount) / this.totalStickersAmount) * 0.01;
+    }
+
+    //  Zerar quantidades das figurinhas antes de recalcular
+    public clearAllAmountsToShow(){
+        this.generalObtainedAmount = 0;
+        this.notObtainedAmount = 0;
+        this.obtainedAmount = 0;
+        this.repeatedAmount = 0;
     }
 }

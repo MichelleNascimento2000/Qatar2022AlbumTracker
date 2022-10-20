@@ -10,6 +10,13 @@ export interface ObtainedSticker{
     amount    : number;
 }
 
+export enum ObtainedPhases{
+    Todos      = 'Todos',
+    NaoObtidas = 'Não Obtidas',
+    Obtidas    = 'Obtidas',
+    Repetidas  = 'Repetidas'
+}
+
 export interface Category{
     name    : string;
     selected: boolean
