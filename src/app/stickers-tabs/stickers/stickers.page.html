@@ -1,0 +1,37 @@
+<ion-content class="background">
+    <ion-item
+        *ngFor="let sticker of getStickersToShow()"
+        color="none" 
+        class="sticker-description"
+        [ngStyle]="{'--color': sticker.sticker.foil ? 'var(--golden-lighter)' : 'var(--theme-color-light)'}"
+    >
+        <ion-grid fixed>
+            <ion-row>
+                <ion-col size="6">
+                    <ion-text class="sticker-text">{{sticker.sticker.id}} - {{sticker.sticker.name}}</ion-text>
+                </ion-col>
+                <ion-col size="6">
+                    <ion-grid fixed>
+                        <ion-row>
+                            <ion-col size="4">
+                                <ion-button (click)="changeCurrentStickerAmount(sticker, false)" size="small" fill="clear">
+                                    <ion-icon slot="icon-only" name="remove-outline" class="add-remove-sticker"></ion-icon>
+                                </ion-button>
+                            </ion-col>
+                            
+                            <ion-col size="4">
+                                <ion-badge class="amount-per-sticker-badge">{{sticker.amount}}</ion-badge>
+                            </ion-col>
+
+                            <ion-col size="4">
+                                <ion-button (click)="changeCurrentStickerAmount(sticker, true)" size="small" fill="clear">
+                                    <ion-icon slot="icon-only" name="add-outline" class="add-remove-sticker"></ion-icon>
+                                </ion-button>
+                            </ion-col>
+                        </ion-row>
+                    </ion-grid>
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+    </ion-item>
+</ion-content>

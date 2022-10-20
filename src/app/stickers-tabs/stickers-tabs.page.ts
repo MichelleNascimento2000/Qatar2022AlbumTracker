@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ObtainedPhases } from 'src/app/models/models';
+import { StickersService } from '../services/stickers.service';
 
 @Component({
     selector: 'app-stickers-tabs',
@@ -8,7 +9,9 @@ import { ObtainedPhases } from 'src/app/models/models';
 })
 export class StickersTabsPage implements OnInit {
 
-    constructor(){
+    constructor(
+        public stickersService: StickersService
+    ){
         this.buildAllObtainedPhases();
     }
 
@@ -24,5 +27,17 @@ export class StickersTabsPage implements OnInit {
             this.allObtainedPhasesWithImage.set(phase, '../../../assets/obtained-phases/' + phase + '.png')
             this.allObtainedPhases.push(phase);
         }
+    }
+
+    //  Retornar o filtro de obtenção usado atualmente
+    public getCurrentObtainedFilter(){
+        return this.stickersService.currentObtainedFilter;
+    }
+
+    //  Atualizar o filtro de obtenção
+    public changeLastObtainedFilterSelected(filter: string){
+        this.stickersService.currentObtainedFilter = filter;
+
+        this.stickersService.updateFiltering();
     }
 }

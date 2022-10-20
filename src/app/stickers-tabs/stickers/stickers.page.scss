@@ -1,0 +1,35 @@
+@import url('https://fonts.cdnfonts.com/css/qatar2022');
+
+.background{
+    --background: linear-gradient(135deg, var(--theme-color-default-3) 0%, var(--theme-color-default-2) 50%, var(--theme-color-default-1) 100%);
+}
+
+.sticker-description{
+    --color: var(--theme-color-light);
+    font-family: 'Qatar2022';
+    font-size: 12px;
+}
+
+.sticker-text{
+    position: relative;
+    top: 50%;
+    left: 0%;
+    transform: translate(-50%, -50%);
+}
+
+.amount-per-sticker-badge{
+    font-family: 'Qatar2022';
+    padding-top: 10px;
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    --background: var(--theme-color-light);
+    --color: var(--white-default);
+}
+
+.add-remove-sticker{
+    color: var(--golden-lighter);
+}

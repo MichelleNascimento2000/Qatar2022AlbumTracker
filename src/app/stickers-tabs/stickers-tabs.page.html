@@ -1,6 +1,10 @@
 <ion-tabs>
     <ion-tab-bar slot="top">
-        <ion-tab-button *ngFor="let item of allObtainedPhases">
+        <ion-tab-button
+            *ngFor="let item of allObtainedPhases"
+            (click)="changeLastObtainedFilterSelected(item)"
+            [ngStyle]="{'color': getCurrentObtainedFilter() == item ? 'var(--theme-color-light)' : 'var(--theme-color-default-3)'}"
+        >
             <ion-img style="width: 25px;" [src]="allObtainedPhasesWithImage.get(item)"></ion-img>
             <ion-label>{{item}}</ion-label>
         </ion-tab-button>

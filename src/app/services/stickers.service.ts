@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import BaseStickerJSON from '../../stickers.json';
 import CategoriesJSON from '../../categories.json';
-import { BaseSticker, Category, ObtainedSticker } from '../models/models';
+import { BaseSticker, Category, ObtainedPhases, ObtainedSticker } from '../models/models';
 import { Storage } from '@ionic/storage';
 
 
@@ -17,7 +17,7 @@ export class StickersService {
 
     //  Controle para saber se app já abriu uma vez
     public appAlreadyOpened = false;
-
+    
     //  Array de todos as figurinhas base, importadas do JSON
     public allStickersFromJSON: BaseSticker[];
 
@@ -39,6 +39,13 @@ export class StickersService {
     public allCategoryNames: string[] = [];
     public allCategories   : Category[] = [];
 
+    //  Array para exibição de figurinhas atualmente filtradas
+    public stickersToShow: ObtainedSticker[] = [];
+
+    //  Valores usados atualmente para filtragem
+    public currentObtainedFilter: string = ObtainedPhases.Todos;
+    public currentCategoriesFilter: string[] = ['Todos'];
+    
     //  Recuperar infos das categorias do JSON e atribuir ao array local    
     public buildAllCategoriesList(){
         this.allCategoryNames = CategoriesJSON;
@@ -56,8 +63,10 @@ export class StickersService {
     //  Recuperar figurinhas obtidas salvas do Storage, e resetar filtros
     public async getObtainedStickersFromStorage(){
         await this.storage.get('obtained-stickers').then(
-            obtainedSticker => this.allObtainedStickers.push(...obtainedSticker)
-        );
+			obtainedSticker => this.allObtainedStickers.push(...obtainedSticker)
+		);
+
+        this.buildStickersToShow('Todos');
     }
 
     //  Verificar se infos das figurinhas obtidas já existe no Storage e recuperá-las
@@ -69,6 +78,8 @@ export class StickersService {
         } else {
             await this.getObtainedStickersFromStorage();
         }
+
+        this.buildStickersToShow('Todos');
 	}
 
     //  Enviar ao Storage Array local atualizado de todas as figurinhas
@@ -89,7 +100,7 @@ export class StickersService {
             )
         );
     }
-    
+
     //  Métodos para verificar status de obtenção das figurinhas
     public isStickerNotObtained(sticker: ObtainedSticker){
         return sticker.amount == 0;
@@ -102,6 +113,7 @@ export class StickersService {
     public isStickerDuplicated(sticker: ObtainedSticker){
         return sticker.amount > 1;
     }
+
 
 
     //  Calcular quantidades e porcentagem das figurinhas obtidas
@@ -139,5 +151,35 @@ export class StickersService {
         this.notObtainedAmount = 0;
         this.obtainedAmount = 0;
         this.repeatedAmount = 0;
+    }
+
+    //  Construir Array para exibição das figurinhas devidas
+    public buildStickersToShow(obtainedFilter: string){
+
+        this.stickersToShow = [];
+
+        let itemIndex = 1;
+        for(let obtainedSticker of this.allObtainedStickers.filter(
+            s =>
+                (
+                    (obtainedFilter.toLowerCase() == 'não obtidas') ? (this.isStickerNotObtained(s)) : 
+                    (obtainedFilter.toLowerCase() == 'obtidas')     ? (this.isStickerObtained(s))    :
+                    (obtainedFilter.toLowerCase() == 'repetidas')   ? (this.isStickerDuplicated(s))  : 
+                    (s.amount >= 0)
+                )
+        )){
+            this.stickersToShow.push(obtainedSticker);
+
+            if(itemIndex++ == 20){
+                break;
+            }
+        }
+    }
+
+    //  Atualizar figurinhas para exibição baseados nos filtros atuais
+    public updateFiltering(){
+        this.buildStickersToShow(
+            this.currentObtainedFilter
+        );
     }
 }
