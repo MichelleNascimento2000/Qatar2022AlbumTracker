@@ -1,0 +1,57 @@
+<ion-menu contentId="menu-content" menuId="main-menu" side="start" type="overlay">
+	<ion-content class="menu-background">
+		<ion-item routerLink='/home' class="menu-item-home">
+			<ion-icon slot="start" name="home" class="menu-icon"></ion-icon>
+			<ion-label class="menu-label">Home</ion-label>
+		</ion-item>
+	</ion-content>
+</ion-menu>
+<ion-router-outlet id="menu-content"></ion-router-outlet>
+
+<ion-content class="background">
+    <div>
+        <ion-grid fixed>
+            <ion-row>
+                <ion-col size="9" class="title-margin">
+                    <ion-label class="title-bold">O App</ion-label>
+                </ion-col>
+            </ion-row>
+            <ion-row>
+                <ion-col size="9" class="content-margin">
+                    <ion-text class="content-text">
+                        Este projeto se trata de uma aplicação para gerenciamento
+                        das figurinhas do Album da Copa Qatar 2022. Além de
+                        poder registrar a obtenção dos stickers, é possível também
+                        filtar sua exibição baseado na obtenção, incluindo até as
+                        repetidas. Por fim, pode-se também filtrar as figurinhas
+                        baseado em sua categoria: países específicos, estádios,
+                        extras, entre outros.<br><br>
+
+                        Projeto desenvolvido em Ionic 5/Angular, e publicado
+                        no GitHub. 
+                        <a href="https://github.com/MichelleNascimento2000/Qatar2022AlbumTracker">Clique aqui para acessar o repositório</a>
+                    </ion-text>
+                </ion-col>
+            </ion-row>
+            <ion-row>
+                <ion-col size="9" class="title-margin" style="margin-top: 30px">
+                    <ion-label class="title-bold">O desenvolvimento</ion-label>
+                </ion-col>
+            </ion-row>
+            <ion-row>
+                <ion-col size="9" class="content-margin">
+                    <ion-text class="content-text">
+                        A parte programática do app foi desenvolvida por mim,
+                        <a href="https://www.linkedin.com/in/michellenascimentosilva/">Michelle Nascimento</a>.
+                        Sou formada em Ciência da Computação e amo o universo da programação.<br><br>
+
+                        O design do app foi desenvolvido pelo meu namorado,
+                        <a href="https://www.linkedin.com/in/alexdutramorais/">Alexandre Dutra</a>.
+                        Atualmente cursando Design Gráfico, ele é um excelente profissional
+                        que só tem a crescer.
+                    </ion-text>
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+    </div>
+</ion-content>

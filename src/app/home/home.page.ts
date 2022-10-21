@@ -39,4 +39,9 @@ export class HomePage {
     public navigateToStickersManager(){
 		this.navController.navigateForward('stickers-tabs/stickers');
     }
+
+    //  Redirecionar para página informacional do app
+    public navigateToAboutPage(){
+		this.navController.navigateForward('about');
+    }
 }
