@@ -4,6 +4,16 @@
     --background: linear-gradient(135deg, var(--theme-color-default-3) 0%, var(--theme-color-default-2) 50%, var(--theme-color-default-1) 100%);
 }
 
+.toggler-div{
+    background-color: rgb(180, 66, 85);
+    position: fixed;
+
+    width: 25px;
+    height: 25px;
+    margin-top: 130%;
+    margin-left: -3%;
+}
+
 .page-number-card{
     font-family: "Qatar2022";
     font-weight: 100;
