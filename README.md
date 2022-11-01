@@ -1,4 +1,4 @@
-## Qatar 2022 Album Tracker ⚽🍸
+## Qatar 2022 Album Tracker ⚽🏆
 
 ▶ Este projeto se trata de uma aplicação para gerenciamento das figurinhas do Álbum da Copa Qatar 2022. Além de poder registrar a obtenção dos stickers, é possível também filtrar sua exibição baseado na obtenção, incluindo até as repetidas. Por fim, pode-se também filtrar as figurinhas baseado em sua categoria: países específicos, estádios, extras, entre outros.
 
