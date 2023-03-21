@@ -8,4 +8,6 @@
 
 ▶ O design do app foi desenvolvido pelo meu namorado, [Alexandre Dutra](https://www.linkedin.com/in/alexdutramorais). Atualmente cursando Design Gráfico, ele é um excelente profissional que só tem a crescer.
 
+▶ [Clique aqui](https://master--qatar2022albumtracker.netlify.app) para acessar a aplicação hospedada no Netlify.
+
 ▶ [Clique aqui](https://1drv.ms/u/s!AnEXMN2CH8u-aakCuer-sw0Xc28?e=sVRPvu) para acessar a pasta com um vídeo de demonstração, e o APK de Android para download.
