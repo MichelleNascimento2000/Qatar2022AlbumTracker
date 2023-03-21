@@ -6,7 +6,7 @@
 
 ▶ A parte programática do app foi desenvolvida por [mim](https://www.linkedin.com/in/michellenascimentosilva). Sou formada em Ciência da Computação e amo o universo da programação.
 
-▶ O design do app foi desenvolvido pelo meu namorado, [Alexandre Dutra](https://www.linkedin.com/in/alexdutramorais). Atualmente cursando Design Gráfico, ele é um excelente profissional que só tem a crescer.
+▶ O design do app foi desenvolvido pelo meu namorado, [Alexandre Dutra](https://www.linkedin.com/in/alexdutramorais). Atualmente realizando alguns trabalhos de Design Gráfico, ele é um excelente profissional que só tem a crescer.
 
 ▶ [Clique aqui](https://master--qatar2022albumtracker.netlify.app) para acessar a aplicação hospedada no Netlify.
 
